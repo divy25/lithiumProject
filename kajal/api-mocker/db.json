@@ -1,0 +1,147 @@
+{
+  
+  "kajal": [
+    {
+      "id": 1,
+      "category":"FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nymaybln00088.jpg",
+      "des" : "Maybelline New York Colossal Kajal (Pack Of 2)",
+      "price": "₹340"         
+    },
+    {
+      "id": 2,
+      "category":"FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/2/22810_h_1_2_1.jpg",
+      "des" : "Lakme Eyeconic Kajal - Classic Brown",
+      "price": "₹275"         
+    },
+
+    {
+      "id": 3,
+      "category": "FEATURED",
+      "imgUrl" : "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/3/23850_h.jpg",
+      "des" : "SUGAR Stroke Of Genius Heavy Duty Kohl",
+      "price": "₹499"         
+    },
+    
+    {
+      "id": 4,
+      "category":"BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24272_h-8901030707988twin.jpg",
+      "des" : "Lakme Eyeconic Kajal Twin Pack - Deep Black",
+      "price": "₹310"         
+    },
+    {
+      "id": 5,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/0/1/01_15_2.jpg",
+      "des" : "Nykaa Glamoreyes Colour Eye Pencil Kajal - Blue Hex 01",
+      "price": "₹450"         
+    },
+    {
+      "id": 6,
+      "category":"BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6946537005757_3.jpg",
+      "des" : "Maybelline New York The Colossal Kajal 24Hour Smudge Proof - Deep Black",
+      "price": "₹170"         
+    },
+    {
+      "id": 7,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/d/b/dbeb1be8904330900424_1.jpg",
+      "des" : "Kay Beauty 24 Hour Kajal - Spade",
+      "price": "₹249"         
+    },
+    {
+      "id": 8,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904052400127_1_1.jpg",
+      "des" : "Colorbar Just Smoky Kajal - Just Grey",
+      "price": "₹675"         
+    },
+    {
+      "id": 9,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/f/6/f6fec248903380157956a_1.jpg",
+      "des" : "Faces Canada Magneteyes Kajal - Deep Black",
+      "price": "₹179"         
+    },
+    {
+      "id": 10,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/6/668729amac_techlnr_rv__1.jpg",
+      "des" : "M.A.C Technakohl Liner - Broque",
+      "price": "₹1450"         
+    },
+    {
+      "id": 11,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/6/e603a.jpg",
+      "des" : "Wet n Wild Color Icon Kohl Liner Pencil - Pretty In Mink",
+      "price": "₹195"         
+    },
+    {
+      "id": 12,
+      "category":"FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/2/6291106034240_3_.jpg",
+      "des" : "Huda Beauty Life Liner Duo Pencil & Liquid Eyeliner",
+      "price": "₹2050"         
+    },
+    {
+      "id": 13,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/3/23850_h.jpg",
+      "des" : "Elle 18 Eye Drama Kajal - Bold Black",
+      "price": "₹90"         
+    },
+    {
+      "id": 14,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/1/11fb29a773602112371_rv__1.jpg",
+      "des" : "M.A.C Technakohl Liner - Graphblack",
+      "price": "₹1450"         
+    },
+    {
+      "id": 15,
+      "category":"FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526301614.1.jpg",
+      "des" : "Maybelline New York Colossal Kajal Super Black",
+      "price": "₹300"         
+    },
+    {
+      "id": 16,
+      "category":"FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245701611_n_r_1.jpg",
+      "des" : "Nykaa Eyem Bold Kajal With Free Sharpener (Deep Black 001)",
+      "price": "₹450"         
+    },
+    {
+      "id": 17,
+      "category":"FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/a/naturstudio_new_pencil_sharpener_1.jpg",
+      "des" : "Plum Natur Studio All-Day-Wear Kohl Kajal - Black Brilliance + Free sharpener",
+      "price": "₹495"         
+    },
+    {
+      "id": 18,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/e/ae61c248903380159448a_1.jpg",
+      "des" : "Faces Canada Ultime Pro Intense Gel Kajal With Free Sharpener - Black",
+      "price": "₹549"         
+    },
+    {
+      "id": 19,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/5/b55d87c8904320703417_1.jpg",
+      "des" : "SUGAR Kohl Of Honour Intense Kajal - 01 Black Out (Black)",
+      "price": "₹249"         
+    },
+    {
+      "id": 20,
+      "category":"OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/6/e608a.jpg",
+      "des" : "Wet n Wild Color Icon Kohl Liner Pencil - You're Always White",
+      "price": "₹195"         
+    }
+  ]
+}
