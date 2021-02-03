@@ -1,0 +1,509 @@
+/* global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+li,
+button,
+label,
+input,
+p {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 4.8rem;
+}
+
+h3 {
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+h4,
+h5 {
+    font-size: 2.8rem;
+}
+
+/* a {
+    color: white;
+    text-decoration: none;
+} */
+
+input:focus {
+    outline: none;
+}
+
+/* header section */
+
+
+.header {
+    /* min-height: 18vh; */
+    border: 0px solid black;
+    position: sticky;
+    top: 0;
+}
+
+/* top head section */
+
+
+.top_head nav {
+    min-height: 40px;
+    background-image: url(https://adn-static1.nykaa.com/media/bannerpro/MockupDesktopStripsaleover_1365x40.jpg);
+}
+
+/* mid head section */
+
+
+#logo {
+    height: 50px;
+    width: 110px;
+}
+
+.mid_head {
+    border-bottom: 1px solid rgb(244, 244, 244);
+    background: white;
+}
+
+.mid_head nav {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 62px;
+    width: 70%;
+    margin: auto;
+    /* background: chartreuse; */
+    justify-content: space-evenly;
+    gap: 1rem;
+}
+
+.mid_head nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 0.9;
+    flex-wrap: wrap;
+}
+
+.mid_head nav ul li a {
+    font-size: 1.5rem;
+    font-weight: 550;
+    color: #03021A;
+    text-decoration: none;
+}
+
+.mid_head nav ul li a:hover {
+    color: rgb(252, 39, 121);
+}
+
+.mid_head nav .input_field {
+    display: flex;
+    align-items: center;
+    background: rgb(244, 244, 244);
+    border-radius: 0.5rem;
+    border: 1px solid gainsboro;
+    padding: 0 1rem 0 0;
+}
+
+.mid_head nav .input_field .search_icon {
+    padding-left: 1rem;
+}
+
+.mid_head nav .input_field .search_icon i {
+    font-weight: 600;
+}
+
+.mid_head nav .input_field input {
+    border: none;
+    background: none;
+    padding: 1.5rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.mid_head_section {
+    /* width: 210px; */
+    height: 62px;
+    display: flex;
+    align-items: center;
+    border: 0px solid black;
+    justify-content: space-between;
+}
+
+.user_account {
+    width: 95px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border: 0px solid black;
+    gap: 0.5rem;
+}
+
+.user_account span a {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #03021A;
+    text-decoration: none;
+}
+
+.user_account span a:hover {
+    color: rgb(252, 39, 121);
+}
+
+.add_to_bag {
+    border: 0px solid black;
+}
+
+
+
+
+
+/* bottom head section */
+
+
+.bottom_head {
+    border-bottom: 1px solid rgb(244, 244, 244);
+    background: white;
+}
+
+.bottom_head nav {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    height: 60px;
+    align-items: center;
+    gap: 3rem;
+}
+
+.bottom_head nav ul {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+.bottom_head nav ul li {
+    border: 0px solid black;
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+.bottom_head nav ul li :hover {
+    /* border-bottom: 4px solid rgb(252,39,121); */
+    color: rgb(252, 39, 121);
+    /* font-weight: 900; */
+}
+
+.bottom_head nav ul li a {
+    color: rgb(136, 134, 134);
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+#offer {
+    height: 30px;
+    width: 85px;
+}
+
+.drop_down {
+    display: none;
+}
+
+.bottom_head nav ul li:hover .drop_down {
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1),
+        0px 20px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    margin-top: 62.5px;
+    position: absolute;
+    border-left: 1px solid rgb(244, 244, 244);
+    border-right: 1px solid rgb(244, 244, 244);
+    border-bottom: 1px solid rgb(244, 244, 244);
+    width: 60%;
+    margin-left: -10px;
+    transition: all 3s ease-in-out 2s;
+
+}
+
+.bottom_head nav ul li .drop_down ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.bottom_head nav ul li .drop_down ul li {
+    padding: 10px 0 0 10px;
+}
+
+.bottom_head nav ul li .drop_down ul li a {
+    color: rgb(158, 157, 157);
+}
+.drop_down ul:nth-child(odd) {
+    background: white;
+}
+.drop_down ul:nth-child(even) {
+    background: rgb(244, 244, 244);
+}
+
+.makeup {
+    transform: translate(-0.5%, 50%);
+}
+
+.skin {
+    transform: translate(-9%, 50%);
+}
+
+.hair {
+    transform: translate(-16.5%, 50%);
+}
+
+.appliances {
+    transform: translate(-23.5%, 50%);
+}
+
+.personalcare {
+    transform: translate(-34%, 50%);
+}
+
+.natural {
+    transform: translate(-47%, 50%);
+}
+
+.mom {
+    transform: translate(-56%, 50%);
+}
+
+.men {
+    transform: translate(-68%, 50%);
+}
+
+.fragrance {
+    transform: translate(-75%, 50%);
+}
+
+.luxe {
+    transform: translate(-87%, 50%);
+}
+
+
+/* AFTER HEADER */
+
+
+.mid_section {
+    height: 100vh;
+    width: 90%;
+    border: 0px solid black;
+    margin: auto;
+}
+
+
+/* FOOTER STARTS */
+.footer_top {
+    min-height: 25vh;
+    background: rgb(63, 65, 77);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer_top footer {
+    display: flex;
+    border: 0px solid black;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    flex: 1;
+
+}
+
+.box {
+    display: flex;
+    border: 0px solid white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem;
+    gap: 2rem;
+    flex: 1;
+    flex-wrap: nowrap;
+}
+
+.box_content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    border: 0px solid white;
+    margin-bottom: 0rem;
+    flex-wrap: nowrap;
+}
+#h4{
+    padding-right: 9rem;
+}
+.box_content h4 {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 8rem;
+    flex-wrap: nowrap;
+}
+
+.input_box {
+    display: flex;
+    gap: 2rem;
+}
+
+.input_box input {
+    background: none;
+    border: none;
+    padding: 2rem 10rem 1rem 0.5rem;
+    border-bottom: 1px solid white;
+    text-align: left;
+    color: white;
+}
+
+.input_box button {
+    background: none;
+    border: 1px solid white;
+    padding: 1.5rem 2rem 1rem 2rem;
+    border-radius: 0.5rem;
+    color: white;
+}
+
+.logo_box img {
+    height: 63px;
+}
+
+.contact_box {
+    border: 0px solid beige;
+    padding-left: 5rem;
+}
+
+.contact_box p {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.icon-cog{
+    color: white;
+}
+
+
+
+.footer_2 {
+    background: rgb(140,141,148);
+    min-height: 40vh;
+    padding: 4rem;
+}
+
+.footer_2 .footer{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.footer_2 .footer ul{
+    display: flex;
+    flex-direction: column;
+    border: 0px solid black;
+    flex: 1;
+    padding-left: 2rem;
+    gap: 2rem;
+    
+}
+
+.footer_2 .footer ul:nth-child(1){
+    padding-bottom: 4rem;
+}
+
+.footer_2 .footer ul:nth-child(2){
+    padding-top: 3rem;
+}
+
+.footer_2 .footer ul:nth-child(3){
+    padding-top: 3rem;
+}
+
+.footer_2 .footer ul:nth-child(4){
+    padding-top: 3rem;
+}
+
+.footer_2 .footer ul:nth-child(5){
+    padding-top: 3rem;
+}
+
+.footer_2 .footer ul:nth-child(6){
+    padding-top: 8rem;
+}
+.footer_2 .footer ul img{
+    height: 60px;
+}
+
+.footer ul a{
+    color: whitesmoke;
+    font-size: 1.4rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+.footer ul a:hover{
+    color: rgb(252, 39, 121);
+}
+.footer_3 {
+    background: #F3F3F3;
+    height: 15vh;
+}
+
+.footer_bottom {
+    background: rgb(252, 39, 121);
+    height: 8vh;
+}
+
+.footer_bottom footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer_bottom footer ul{
+    display: inline-flex;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    gap: 2rem;
+}
+
+.footer_bottom footer ul a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.footer_bottom footer p{
+    color: white;
+    font-size: 1.4rem;
+}
