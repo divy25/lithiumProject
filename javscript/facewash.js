@@ -11,7 +11,7 @@ async function loadData() {
         for (i in data) {
             output +=
                 `<div class="product-card">
-                    <p id="tag">${data[i].category}</p>
+                    <p id="tag" style="text-align: left; padding-left: 1rem;">${data[i].category}</p>
                     <div class="product-pic">
                         <img src=${data[i].imgUrl} alt="..."></img>
                     </div>
