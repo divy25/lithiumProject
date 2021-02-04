@@ -1,0 +1,257 @@
+.container {
+    width: 100%;
+    background-color: rgb(221, 221, 221);
+}
+.offers-div1 > img {
+    width: 100%;
+    height: 60vh;
+    margin-top: 40px;
+}
+.offers-nav {
+    width: 85%;
+    height: 8vh;
+    margin-left: 7.5%;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+}
+.top-offers {
+    width: 26%;
+    height: 8vh;
+    color: rgb(243, 13, 121);
+    border-bottom: 4px solid rgb(243, 13, 121);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+.top-offers > p {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.all-offers {
+    width: 26%;
+    height: 8vh;
+    text-align: center;
+}
+.all-offers > p {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.all-offers:hover {
+    border-bottom: 4px solid rgb(243, 13, 121);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+.all-offers > p:hover {
+    color: rgb(243, 13, 121);
+}
+.offers-div3-main {
+    width: 100%;
+    background-color: rgb(223, 223, 223);
+}
+.offers-div3 {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: 40px;
+    /* border: 1px solid green; */
+}
+.offers-div3 > p {
+    font-size: 25px;
+    /* font-weight: bold; */
+    color: black;
+    text-align: center;
+}
+.offers-div3-flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex2-padding {
+    padding-top: 18px;
+}
+.offers-div3-img1 {
+    width: 32%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/3ffeed3f-1307-47ac-a2a4-922935cb295f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.offers-div3-img2 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/f94fc54f-e8dd-4ba8-986a-2c7cb2073841.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img3 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/12c5133c-3f62-4919-a655-f133635e2eb6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img4 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/132f0a08-b94f-4c2c-9734-12743f101511.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img5 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/3b0f8296-3407-4742-8f9f-a1e09c5b322a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img6 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/de7fb10c-7dd1-473c-9f8c-21eec50853f0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img7 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/be2aaea8-c1d8-4333-a1ee-e2715c91a54b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img8 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/d8ea93ff-99ff-4ee5-b381-3f6d45e5af77.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-img9 {
+    width: 33%;
+    height: 350px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    background-image: url("https://images-static.nykaa.com/uploads/8098cc2a-30ea-4b25-b006-efe68c50e39c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.offers-div3-text {
+    width: 90%;
+    height: 80px;
+    margin-left: 5%;
+    margin-top: 250px;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+}
+.offers-div3-text1 {
+    color: rgb(252, 52, 85);
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.all-offers-div > p {
+    font-size: 25px;
+    /* font-weight: bold; */
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.div7-main {
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+}
+.div-7 {
+    width: 85%;
+    margin-left: 7.5%;
+    background-color: rgb(228, 228, 228);
+    margin-top: 40px;
+}
+.div-7 > p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.div7-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.div7-flex2-padding {
+    padding-bottom: 20px;
+}
+.div7-cards {
+    height: 350px;
+    width: 22%;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    background-color: rgb(247, 247, 247);
+    border-radius: 5px;
+}
+.div7-cards:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div7-cards > img {
+    height: 250px;
+    width: 100%;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+.div7-cards > p {
+    text-align: center;
+}
+.hydrating {
+    font-size: 20px;
+    /* padding-top: 10px; */
+    /* font-weight: bold; */
+    color: rgb(253, 37, 73);
+}
+.plump {
+    line-height: 0cm;
+}
+.see-more {
+    width: 100px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 46%;
+}
+.beneath-button {
+    text-align: center;
+    font-size: 25px;
+}
+.clearance-img-div {
+    width: 100%;
+}
+.clearance-img {
+    margin-left: 7.5%;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+.clearance-img:hover {
+    box-shadow: 8px 5px 5px 5px rgb(221, 221, 221);
+}
+.online-sale-heading {
+    font-size: 50px;
+    /* line-height: 0.5cm; */
+}
+.above-footer-text {
+    width: 85%;
+    margin-left: 7.5%;
+}

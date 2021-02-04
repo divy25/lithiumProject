@@ -1,0 +1,351 @@
+.div-1 {
+    margin-top: 30px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+#mycarousel-indicator {
+    border-radius: 50%;
+}
+.div-2:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-main {
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+    margin-top: 50px;
+
+}
+.div-3 {
+    height: 350px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 50px;
+    /* background-color: gray;
+    border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+} 
+.div3-heading {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+.div3-img1 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/64d53abe-c7de-40a7-8e2d-ce01f5630c53.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div4-img1:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div4-img2:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div4-img3:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div4-img4:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img1:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img2 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/1b904d7d-ccd0-4ee8-b2fc-b43872e58c5a.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div3-img2:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img3 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/79cdae20-0e6d-4116-b7be-aa575ab8e420.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div3-img3:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img4 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/6acdafc7-9656-4c8d-8e64-5f038e67060d.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div3-img4:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img5 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/1b505d71-a4c0-4ebb-bb21-10baf71bc7dc.png");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div3-img5:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img6 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/e9e0ca30-cb68-4891-b7a3-3ab0057e38d1.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div3-img6:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img-text {
+    height: 80px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 250px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.div3-img-text1 {
+    color: rgb(252, 52, 85);
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    /* line-height: 0cm; */
+}
+.div3-img-text2 {
+    font-weight: bold;
+    line-height: 0cm;
+}
+.beauty-bonanza {
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding-bottom: 30px;
+}
+.beauty-bonanza-img {
+    border-radius: 5px;
+}
+.beauty-bonanza-img:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div3-img1 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/64d53abe-c7de-40a7-8e2d-ce01f5630c53.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div4-img1 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/b69859e9-fea1-4689-89b5-21462c02b4a7.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div4-img2 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/158ef17a-092c-462d-8aa8-2c46b1b6c384.gif");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div4-img3 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/11c3e25a-c3e5-400d-8fd7-5ba5e34f3166.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div4-img4 {
+    height: 350px;
+    width: 45%;
+    background-image: url("https://images-static.nykaa.com/tr:w-560,c-at_max/uploads/7cb1e7fd-605c-412c-a636-3b385d928bdd.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.div-5 {
+    height: 500px;
+    width: 100%;
+    background-color:rgb(245, 245, 245);
+    margin-top: 50px;
+}
+.div-5 > p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.store-flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+.store-flex1 {
+    height: 400px;
+    width: 40%;
+    margin-left: 5%;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+}
+.store-flex2 {
+    height: 400px;
+    width: 40%;
+    margin-right: 5%;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+}
+.store-flex1:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.store-flex2:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.store-flex1 >img {
+    width: 100%;
+    border-radius: 5px;
+}
+.store-flex2 >img {
+    width: 100%;
+    border-radius: 5px;
+}
+.store-flex1 > p {
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.store-flex2 > p {
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.div-6 {
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+    text-align: center;
+    margin-top: 40px;
+}
+.div-6 {
+    padding-top: 10px;
+    font-size: 30px;
+}
+.gif {
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.gif:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.beneath-gif:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.beneath-gif {
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.div7-main {
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+}
+.div-7 {
+    width: 85%;
+    margin-left: 7.5%;
+    background-color: rgb(228, 228, 228);
+    margin-top: 40px;
+}
+.div-7 > p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.div7-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.div7-flex2-padding {
+    padding-bottom: 20px;
+}
+.div7-cards {
+    height: 350px;
+    width: 22%;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    background-color: rgb(247, 247, 247);
+    border-radius: 5px;
+}
+.div7-cards:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div7-cards > img {
+    height: 250px;
+    width: 100%;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+.div7-cards > p {
+    text-align: center;
+}
+.hydrating {
+    font-size: 20px;
+    padding-top: 20px;
+    /* font-weight: bold; */
+    color: rgb(253, 37, 73);
+}
+.plump {
+    line-height: 0cm;
+}
+.div8-main {
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+    margin-top: 40px;
+}
+.div8-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.div8-imgs {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: 20px;
+}
+.div8-img1 {
+    border-radius: 5px;
+}
+.div8-img1:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div8-img2:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
+.div8-img2 {
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.div8-main > p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.disover-padding {
+    padding-bottom: 20px;
+}
+.covid-essentials {
+    border-radius: 5px;
+    text-align: center;
+}
+.covid-essentials > img {
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.covid-essentials > img:hover {
+    box-shadow: 8px 8px 8px 8px rgb(221, 221, 221);
+}
