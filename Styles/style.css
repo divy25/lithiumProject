@@ -66,7 +66,7 @@ input:focus {
     align-items: center;
     flex-wrap: wrap;
     min-height: 62px;
-    width: 70%;
+    width: 100%;
     margin: auto;
     /* background: chartreuse; */
     justify-content: space-evenly;
@@ -157,10 +157,49 @@ input:focus {
     color: #03021A;
 }
 
+.drop_down_account{
+    display: none;
+}
+.user_account:hover .drop_down_account{
+    display: flex;
+    background: rgb(255, 252, 252);
+    margin-top: 15px;
+    position: absolute;
+    margin-left: -100px;
+    width: 200px;
+    border: 0px solid black;
+    flex-direction: column;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1),
+        0px 20px 20px rgba(0, 0, 0, 0.1);
+}
+.drop_down_account ul{
+    display: flex;
+   
+    flex-direction: column;
+    align-items: flex-start;
+    border: 0px solid black;
+}
 
+.drop_down_account ul li{
+    display: flex;
+    padding: 2rem 1rem 1.5rem 1.5rem;
+    border-bottom: 1px solid rgb(216, 215, 215);
+    width: 100%;
+     gap: 1rem;
+}
+.drop_down_account ul :last-child{
+    border-bottom: 0px solid rgb(195, 195, 195);
+}
 
+.drop_down_account ul li a{
+    color: rgb(158, 157, 157);
+}
 
 /* bottom head section */
+
+
+
+
 
 
 .bottom_head {
@@ -171,7 +210,7 @@ input:focus {
 .bottom_head nav {
     display: flex;
     justify-content: center;
-    width: 60%;
+    width: 90%;
     margin: auto;
     height: 60px;
     align-items: center;
@@ -224,7 +263,7 @@ input:focus {
     border-left: 1px solid rgb(244, 244, 244);
     border-right: 1px solid rgb(244, 244, 244);
     border-bottom: 1px solid rgb(244, 244, 244);
-    width: 60%;
+    width: 90%;
     margin-left: -10px;
     transition: all 3s ease-in-out 2s;
 
@@ -300,7 +339,7 @@ input:focus {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 100%;
     border: 0px solid black;
     margin: auto;
     /* background-color: antiquewhite; */
@@ -499,7 +538,7 @@ input:focus {
 .footer_top footer {
     display: flex;
     border: 0px solid black;
-    width: 80%;
+    width: 100%;
     margin: auto;
     flex-wrap: wrap;
     flex: 1;
@@ -592,7 +631,7 @@ input:focus {
 }
 
 .footer_2 .footer {
-    width: 80%;
+    width: 100%;
     margin: auto;
     display: flex;
 }
@@ -656,7 +695,7 @@ input:focus {
 }
 
 .footer_3 footer {
-    max-width: 80%;
+    width: 100%;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
