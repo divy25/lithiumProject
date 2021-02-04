@@ -354,6 +354,7 @@ input:focus {
 .head {
     text-align: center;
     font-weight: 400;
+    font-size: 3rem;
 }
 
 .display {
@@ -473,7 +474,7 @@ input:focus {
 .add{
   flex: 1;
   border: none;
-  padding: 1rem;
+  padding: 2rem 1rem;
   background: white;
 }
 .add:focus{
