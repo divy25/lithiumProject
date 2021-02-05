@@ -13,7 +13,7 @@
         integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
         crossorigin="anonymous" />
     <link rel="stylesheet" href="./Styles/facewash.css">
-    <title>Facewash-Buy Cosmtics Products & Beauty Products Online In India's Best Online Cosmetics Platform</title>
+    <title>lipstick-Buy Cosmtics Products & Beauty Products Online In India's Best Online Cosmetics Platform</title>
 
 </head>
 
@@ -29,7 +29,7 @@
                 <ul>
                     <li><a href="#">CATEGORIES</a></li>
                     <li><a href="#">BRANDS</a></li>
-                    <li><a href="#">NYKAA FASHION</a></li>
+                    <li><a href="fashion.html">NYKAA FASHION</a></li>
                     <li><a href="#">BEAUTY ADVICE</a></li>
                     <li><a href="#">NYKAA NETWORK</a></li>
                 </ul>
@@ -52,7 +52,7 @@
                                     <li><i class="fas fa-star fa-2x"></i><a href="#">My Profile</a></li>
                                     <li><i class="far fa-user-circle fa-2x"></i><a href="#">Nykaa Subscription</a></li>
                                     <li><i class="fas fa-wallet fa-2x"></i><a href="#">My Wallet</a></li>
-                                    <li><i class="fas fa-heart fa-2x"></i><a href="#">My Wishlist</a></li>
+                                    <li><i class="fas fa-heart fa-2x"></i><a href="wishlist.html">My Wishlist</a></li>
                                     <li><i class="far fa-question-circle fa-2x"></i><a href="#">Q & A</a></li>
                                     <li><i class="fas fa-sign-out-alt fa-2x"></i><a href="#">Logout</a></li>
                                 </ul>
@@ -62,7 +62,7 @@
 
                     <div class="add_to_bag">
                         <div class="add_to_bag_icon">
-                            <a href="#"><i class="fas fa-shopping-bag fa-2x icon-cog"></i></a>
+                            <a href="cart.html"><i class="fas fa-shopping-bag fa-2x icon-cog"></i></a>
                         </div>
                     </div>
                 </section>
@@ -75,7 +75,7 @@
                         <div class="drop_down makeup">
                             <ul>
                                 <li><a href="#" style="font-weight: 700; color: gray;">FACE</a></li>
-                                <li><a href="">Face Primer</a></li>
+                                <li><a href="facePrimerNew.html">Face Primer</a></li>
                                 <li><a href="">Concealer</a></li>
                                 <li><a href="">Foundation</a></li>
                                 <li><a href="">Comapct</a></li>
@@ -92,7 +92,7 @@
                             </ul>
                             <ul>
                                 <li><a href="#" style="font-weight: 700; color: gray;">EYES</a></li>
-                                <li><a href="">Kajal</a></li>
+                                <li><a href="kajalNew.html">Kajal</a></li>
                                 <li><a href="">Eyeliner</a></li>
                                 <li><a href="">Mascara</a></li>
                                 <li><a href="">Eye Shadow</a></li>
@@ -109,15 +109,15 @@
                                 <li><a href="" style="padding-bottom: 50px;">Customize Your Palette</a></li>
                             </ul>
                             <ul>
-                                <li><a href="#" style="font-weight: 700; color: gray;">FACE</a></li>
-                                <li><a href="">Face Primer</a></li>
-                                <li><a href="">Concealer</a></li>
-                                <li><a href="">Foundation</a></li>
-                                <li><a href="">Comapct</a></li>
-                                <li><a href="">Contour</a></li>
-                                <li><a href="">Loose Powder</a></li>
-                                <li><a href="">Blush</a></li>
-                                <li><a href="">Bronzer</a></li>
+                                <li><a href="#" style="font-weight: 700; color: gray;">LIPS</a></li>
+                                <li><a href="lipstickNew.html">Lipstick</a></li>
+                                <li><a href="">Liquid Lipstick</a></li>
+                                <li><a href="">Lip crayon</a></li>
+                                <li><a href="">Lip Gloss</a></li>
+                                <li><a href="">Lip Liner</a></li>
+                                <li><a href="">Lip Plumper</a></li>
+                                <li><a href="">Lip Stain</a></li>
+                                <li><a href="">Lip Balm</a></li>
                                 <li><a href="">BB & CC Cream</a></li>
                                 <li><a href="">Highlighters</a></li>
                                 <li><a href="">Setting Spray</a></li>
@@ -1183,7 +1183,15 @@
         <h3 class="head">ALL PRODUCTS</h3>
         <div class="display">
             <div class="filter">
-                <div class="sort"><button>SORT BY: POPULARITY<span><i class="fas fa-caret-down"></i></i></span></button></div>
+                <form>
+                    <select style="width: 270px; height:50px; border: 1px solid white; border-radius: 2px; padding-left: 30px;margin-bottom: 10px;" name="sortBy"id="sortBY">
+                        <option value="">SORT BY: PRICE</option>
+                        <option value="asc">ASCENDING</option>
+                        <option value="desc">DESCENDING</option>
+                    </select>
+                </form>
+
+                <!-- <div class="sort"><button>SORT BY: POPULARITY<span><i class="fas fa-caret-down"></i></i></span></button></div> -->
                 <div><button>BRAND<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
                 <div><button>PRICE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
                 <div><button>DISCOUNT<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>

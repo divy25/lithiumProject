@@ -14,7 +14,7 @@ function showWishedData() {
                                          <button class="wishDel" id="${data[i].id}" onclick="deleteWish(this)">X</button>
                                          <img class="wishImg" src=${data[i].itemImg}></img>
                                          <p>${data[i].itemDesc}</p>
-                                         <h3>${data[i].itemPrice}</h3>
+                                         <h3>₹${data[i].itemPrice}</h3>
                                          <button class="moveToBag" id="${data[i].itemId}" onclick="moveToBag(this)">MOVE TO BAG</button>
                                    </div>
                      

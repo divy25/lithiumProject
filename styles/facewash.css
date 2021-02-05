@@ -476,6 +476,10 @@ input:focus {
   background: white;  
 }
 
+/* .product-price {
+    font-weight: 800;
+} */
+
 .product-card p {
   text-align: center;
   padding: 0.25rem;
@@ -501,6 +505,7 @@ input:focus {
 .product-btn{
   border-top: 1px solid rgb(235, 235, 235);
   display: flex;  
+  font-size: 16px;
 }
 .heart{
   padding: 0.5rem;

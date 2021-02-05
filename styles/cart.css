@@ -1,6 +1,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
+   
 }
 .title{
     text-align: center;
@@ -16,7 +17,7 @@ body {
     width: fit-content;
     margin: 1px auto;
 }
-.address a, p{
+.address a, .address p{
     text-decoration: none;
     color: white;
     font-size: 13px;
@@ -297,4 +298,71 @@ td img {
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
+}
+
+
+
+.addedItemCard {
+    width: 36%;
+    margin: auto;
+    /* border: 1px solid black; */
+    box-shadow: 1px 1px 1px 1px #888888;
+    margin-bottom: 2%;
+}
+
+
+.addedItemDetails {
+    display: flex;
+    border: none none none;
+    border-bottom: 0.2px solid grey;
+}
+
+.proImgBox {
+    margin-top: 2%;
+     height: 120px;
+     width: 140px;
+     padding-left: 3%;
+}
+
+.proImgBox img {
+    height: 80%;
+    width: 80%;
+}
+
+.addedItemDetails p {
+    margin-left: 3%;
+    margin-right: 5%;
+    width: 60%;
+}
+
+.addedItemDetails button {
+    height: 30px;
+    margin-top: 3%;
+    margin-right: 3%;
+    border: none;
+    background: transparent;
+    font-size: larger;
+    cursor: pointer;
+}
+
+.addedItemCard :nth-child(2) {
+    display: flex;
+    gap: 60%;
+}
+
+.quantity {
+    margin-left: 4%;
+}
+
+.price {
+    margin-top: 3%;
+    font-weight: 700;
+}
+
+.title > h2 {
+    box-shadow: 1px 1px 1px 1px #888888;
+    width: 36%;
+    margin: auto;
+   padding-top: 10px;
+   padding-bottom: 10px;
 }
