@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./cart.css">
+    <title>CART</title>
+</head>
+<body>
+    <div class="container">
+
+        <div id="display">
+
+        </div>
+        <div class="title">
+            <h1>Shopping Bag</h1>
+            <div class="address">
+                <a href="/Header&Footer/H&F.html">
+                    <i class="fa fa-home" style="font-size: 15px;" aria-hidden="true"></i>
+                    Home
+                </a>
+                <p>/</p>
+                <p>Cart</p>
+            </div>
+        </div>
+        <div class="added_items">
+        </div>
+        <div class="total_box">
+            <h2>Payment Details</h2>
+            <div class="total_amt_box">
+                <div class="sub_total">
+                    <h4>Subtotal:</h4>
+                    <div class="sub">
+                        <h4 style="font-weight: bold;">&#8377</h4>
+                        <h4 id="bill_amt">0.00</h4>
+                    </div>
+                </div>
+                <div class="sub_total">
+                    <h4>Bagtotal:</h4>
+                    <div class="sub">
+                        <h4 style="font-weight: bold;">&#8377</h4>
+                        <h4 id="bill_amt">0.00</h4>
+                    </div>
+                </div>
+                <div class="sub_total">
+                    <h4>Tax(GST):</h4>
+                    <h4>18%</h4>
+                </div>
+                <div class="line"></div>
+                <div class="sub_total">
+                    <h2>Grand Total</h2>
+                    <div class="sub">
+                        <h2 style="font-weight: bold;">&#8377</h2>
+                        <h2 id="total_amt">0.00</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="free_ship" id="freeShip">CONGRATULATIONS! YOU'VE GOT FREE SHIPPING</div>
+            <div class="offer" id="offer">Have A Coupan Code?</div>
+            <div class="checkout" id="checkout">PROCEED</div>
+        </div>
+        <div class="modal-bg">
+            <div class="modal">
+                <div class="deliAddress">
+                    <div>
+                        <h5 style="color: grey;">Deliver to</h5>
+                        <h5>2nd Floor, 91springboard, Salarpuria Tower -1 No. 22, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095</h5>
+                    </div>
+                    <div>
+                        <h5 style="color: grey">Delivery by</h5>
+                        <h5 id="deliveryDate">Modnay</h5>
+                    </div>
+                </div>
+                <div class="modal_text">
+                    <select id="cust" >
+                        <option value="">Select Payment Mode</option>
+                        <option value="">Debit Card</option>
+                        <option value="">Credit Card</option>
+                        <option value="">Net Banking</option>
+                        <option value="">Cash On Delivery</option>
+                    </select>
+                    <button id="modal-btn">PAY NOW</button>
+                </div>
+                <a href="" style="font-size: 14px;">Click here for new registration</a>
+                <span class="modal-close">X</span>
+            </div>
+        </div>
+        <div class="modal-bg2">
+            <div class="modal">
+                <div id="loader">
+                    <h4 style="margin: 20px;">Please wait...</h4>
+                    <div class="loader"></div>
+                </div>
+                <div id="thank" class="thank">
+                    <h1 style="color: green;">Thank you for shopping with us!</h1>
+                    <div class="modal-thank">
+                        <h3>Your order is placed successfully!</h3>
+                        <h4>Order No: #2361499443</h4>
+                    </div>
+                    <button id="close">CLOSE</button>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+    <script src="./cart.js"></script>
+</body>
+</html>
