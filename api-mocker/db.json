@@ -1,0 +1,1211 @@
+{
+  "facePrimer": [
+    {
+      "id": 1,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245706623_01.jpg",
+      "des": "Nykaa Prep Me Up! Face Primer",
+      "price": 549
+    },
+    {
+      "id": 2,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6946537035242.png",
+      "des": "L'Oreal Paris Base Magique Transforming Smoothing Primer",
+      "price": 970
+    },
+    {
+      "id": 3,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/0/609332859111.jpg",
+      "des": "e.l.f. Cosmetics Mattifying Putty Primer - Universal Sheer",
+      "price": 1100
+    },
+    {
+      "id": 4,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24358_h-8901030725692_1.jpg",
+      "des": "Lakme Absolute Under Cover Gel Face Primer",
+      "price": 750
+    },
+    {
+      "id": 5,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/f/d/fd6c29amac_prmpfx_rv__1.jpg",
+      "des": "M.A.C Fix+ (Shimmer) - Pinklite",
+      "price": 1900
+    },
+    {
+      "id": 6,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/3/739429a773602345830_rv__1.jpg",
+      "des": "M.A.C Fix+ - Original",
+      "price": 1900
+    },
+    {
+      "id": 7,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24815_h-8901030790065.jpg",
+      "des": "Lakme Absolute Blur Perfect Makeup Primer - Mini",
+      "price": 299
+    },
+    {
+      "id": 8,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904052415121-1.png",
+      "des": "Colorbar Perfect Match Primer",
+      "price": 850
+    },
+    {
+      "id": 9,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/o/bobbi_vefb_1_.png",
+      "des": "Bobbi Brown Vitamin Enriched Face Base - Mini",
+      "price": 990
+    },
+    {
+      "id": 10,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/p/r/primer_water_config_-_primary_image.jpg",
+      "des": "Smashbox Photo Finish Primer Water - Travel Size",
+      "price": 990
+    },
+    {
+      "id": 11,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/l/a/lakm_-absolute-blur-perfect-makeup-primer.jpg",
+      "des": "Lakme Absolute Blur Perfect Makeup Primer",
+      "price": 750
+    },
+    {
+      "id": 12,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901030654893_h.jpg",
+      "des": "Lakme 9 to 5 Primer + Matte Powder Foundation Compact - Silky Golden",
+      "price": 575
+    },
+    {
+      "id": 13,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/m/_/m_8_1.jpg",
+      "des": "M.A.C Fix+ / Mini",
+      "price": 1200
+    },
+    {
+      "id": 14,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nyinsght00036_5_.jpg",
+      "des": "Insight Cosmetics 3 In 1 Long Lasting Primer",
+      "price": 240
+    },
+    {
+      "id": 15,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/l/g/lg_1_1.jpg",
+      "des": "Farsáli Liquid Glass Radiance Serum",
+      "price": 1750
+    },
+    {
+      "id": 16,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/5/4/54e129a773602506675_rv__1.jpg",
+      "des": "M.A.C Fix+ (Shimmer) - Pinklite",
+      "price": 1900
+    },
+    {
+      "id": 17,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/p/o/pore_primer_carousel_image_1.jpg",
+      "des": "Benefit Cosmetics The POREfessional Pore Primer Mini",
+      "price": 1240
+    },
+    {
+      "id": 18,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/p/r/primer_water_mini_-primary.jpg",
+      "des": "Smashbox Photo Finish Primer Water - Travel Size",
+      "price": 990
+    },
+    {
+      "id": 19,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/l/g/lg_1.jpg",
+      "des": "Farsáli Liquid Glass Radiance Serum",
+      "price": 1750
+    },
+    {
+      "id": 20,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906090497428.jpg",
+      "des": "SUGAR The Base Of Glory Pore Minimizing Primer",
+      "price": 799
+    }
+  ],
+  "kajal": [
+    {
+      "id": 1,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nymaybln00088.jpg",
+      "des": "Maybelline New York Colossal Kajal (Pack Of 2)",
+      "price": "340"
+    },
+    {
+      "id": 2,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/2/22810_h_1_2_1.jpg",
+      "des": "Lakme Eyeconic Kajal - Classic Brown",
+      "price": "275"
+    },
+    {
+      "id": 3,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/3/23850_h.jpg",
+      "des": "SUGAR Stroke Of Genius Heavy Duty Kohl",
+      "price": "499"
+    },
+    {
+      "id": 4,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24272_h-8901030707988twin.jpg",
+      "des": "Lakme Eyeconic Kajal Twin Pack - Deep Black",
+      "price": "310"
+    },
+    {
+      "id": 5,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/0/1/01_15_2.jpg",
+      "des": "Nykaa Glamoreyes Colour Eye Pencil Kajal - Blue Hex 01",
+      "price": "450"
+    },
+    {
+      "id": 6,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6946537005757_3.jpg",
+      "des": "Maybelline New York The Colossal Kajal 24Hour Smudge Proof - Deep Black",
+      "price": "170"
+    },
+    {
+      "id": 7,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/d/b/dbeb1be8904330900424_1.jpg",
+      "des": "Kay Beauty 24 Hour Kajal - Spade",
+      "price": "249"
+    },
+    {
+      "id": 8,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904052400127_1_1.jpg",
+      "des": "Colorbar Just Smoky Kajal - Just Grey",
+      "price": "675"
+    },
+    {
+      "id": 9,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/f/6/f6fec248903380157956a_1.jpg",
+      "des": "Faces Canada Magneteyes Kajal - Deep Black",
+      "price": "179"
+    },
+    {
+      "id": 10,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/6/668729amac_techlnr_rv__1.jpg",
+      "des": "M.A.C Technakohl Liner - Broque",
+      "price": "1450"
+    },
+    {
+      "id": 11,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/6/e603a.jpg",
+      "des": "Wet n Wild Color Icon Kohl Liner Pencil - Pretty In Mink",
+      "price": "195"
+    },
+    {
+      "id": 12,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/2/6291106034240_3_.jpg",
+      "des": "Huda Beauty Life Liner Duo Pencil & Liquid Eyeliner",
+      "price": "2050"
+    },
+    {
+      "id": 13,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/3/23850_h.jpg",
+      "des": "Elle 18 Eye Drama Kajal - Bold Black",
+      "price": "90"
+    },
+    {
+      "id": 14,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/1/11fb29a773602112371_rv__1.jpg",
+      "des": "M.A.C Technakohl Liner - Graphblack",
+      "price": "1450"
+    },
+    {
+      "id": 15,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526301614.1.jpg",
+      "des": "Maybelline New York Colossal Kajal Super Black",
+      "price": "300"
+    },
+    {
+      "id": 16,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245701611_n_r_1.jpg",
+      "des": "Nykaa Eyem Bold Kajal With Free Sharpener (Deep Black 001)",
+      "price": "450"
+    },
+    {
+      "id": 17,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/a/naturstudio_new_pencil_sharpener_1.jpg",
+      "des": "Plum Natur Studio All-Day-Wear Kohl Kajal - Black Brilliance + Free sharpener",
+      "price": "495"
+    },
+    {
+      "id": 18,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/e/ae61c248903380159448a_1.jpg",
+      "des": "Faces Canada Ultime Pro Intense Gel Kajal With Free Sharpener - Black",
+      "price": "549"
+    },
+    {
+      "id": 19,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/5/b55d87c8904320703417_1.jpg",
+      "des": "SUGAR Kohl Of Honour Intense Kajal - 01 Black Out (Black)",
+      "price": "249"
+    },
+    {
+      "id": 20,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/6/e608a.jpg",
+      "des": "Wet n Wild Color Icon Kohl Liner Pencil - You're Always White",
+      "price": "195"
+    }
+  ],
+  "lipstick": [
+    {
+      "id": 1,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nyk_sccmlt_new_1_game-on_1.jpg",
+      "des": "Nykaa So Creme! Creamy Matte Lipstick - Walk the Walk",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/4/1/41554429930-b_1.jpg",
+      "des": "Maybelline New York Color Sensational Creamy Matte Lipstick - 637 Barely Nude",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/2/4/24023_h-8901030654312_1_1.png",
+      "des": "Lakme 9 to 5 Weightless Matte Mousse Lip & Cheek Color - Nude Cushion",
+      "price": 675
+    },
+    {
+      "id": 4,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904052460480_1_1.png",
+      "des": "Colorbar Velvet Matte Lipstick - Feeling Hawt",
+      "price": 340
+    },
+    {
+      "id": 5,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/7/773602473175_mini_1.jpg",
+      "des": "M.A.C Lipstick / Mini - Lady Danger",
+      "price": 1050
+    },
+    {
+      "id": 6,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8903380001877_1_1.jpg",
+      "des": "Faces Canada Ultime Pro HD Intense Matte Lips + Primer - 01 Perfection",
+      "price": 799
+    },
+    {
+      "id": 7,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904330900165_a_1.jpg",
+      "des": "Kay Beauty Matteinee Matte Lipstick - Rumour",
+      "price": 899
+    },
+    {
+      "id": 8,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/t/athleisure_1.jpg",
+      "des": "Nykaa Matte Luxe Lipstick - Avocado Toast",
+      "price": 750
+    },
+    {
+      "id": 9,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/h/6/h6291106032772_1.jpg",
+      "des": "Huda Beauty Power Bullet Matte Lipstick - Dirty Thirty",
+      "price": 1995
+    },
+    {
+      "id": 10,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245701093_re_new_01_naughty-nude-11_1.jpg",
+      "des": "Nykaa So Matte Lipstick - Candy Land 38 M",
+      "price": 399
+    },
+    {
+      "id": 11,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6902395737476_1__2.jpg",
+      "des": "Maybelline New York Super Stay Crayon Lipstick ",
+      "price": 599
+    },
+    {
+      "id": 12,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8903380003642.jpg",
+      "des": "Faces Canada Weightless Matte Finish Lipstick - Hot Plum 24",
+      "price": 249
+    },
+    {
+      "id": 13,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/j/a/jade-rose-11_4.jpg",
+      "des": "Nykaa Matte-ilicious Lip Crayon Lipstick ",
+      "price": 699
+    },
+    {
+      "id": 14,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/o/noor_1.jpg",
+      "des": "Nykaa Ultra Matte Lipstick - Noor 05",
+      "price": 599
+    },
+    {
+      "id": 15,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/f/c/fcd329amac_mlps_rv__1.jpg",
+      "des": "M.A.C Matte Lipstick - Diva",
+      "price": 1700
+    },
+    {
+      "id": 16,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/6/a694c7d23956_h-8901030633164.jpg",
+      "des": "Elle 18 Color Pops Matte Lipstick - Grape Riot",
+      "price": 75
+    },
+    {
+      "id": 17,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/6/9/6902395670971_1_1.jpg",
+      "des": "L'Oreal Paris Color Riche Moist Matte Lipstick ",
+      "price": 450
+    },
+    {
+      "id": 18,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/d/f/dfea29amac_rmlps_rv__1.jpg",
+      "des": "M.A.C Retro Matte Lipstick - Runway Hit",
+      "price": 1700
+    },
+    {
+      "id": 19,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245709280_re_n_ima_01_blessed_1.jpg",
+      "des": "Nykaa Wonderpuff Cushion Liquid Lipstick",
+      "price": 899
+    },
+    {
+      "id": 20,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/0/3/03_nimbu-pani_6.jpg",
+      "des": "Masaba By Nykaa Lipstick - Femme Fatale",
+      "price": 599
+    }
+  ],
+  "facewash": [
+    {
+      "id": 1,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904245712808_1_1.jpg",
+      "des": "Nykaa Naturals Tea Tree & Neem Purifying Face Wash for Acne",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8901526406463_1.jpg",
+      "des": "Cheryl's Cosmeceuticals SensiWash - For Oily & Sensitive Skin",
+      "price": 349
+    },
+    {
+      "id": 3,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/c/b/cb19408nykniv_mldtfw.jpg",
+      "des": "NIVEA Milk Delights Face Wash Turmeric for Acne-Prone Skin",
+      "price": 675
+    },
+    {
+      "id": 4,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/9/3/9300607379792_1.jpg",
+      "des": "Neutrogena Oil-Free Acne Wash",
+      "price": 340
+    },
+    {
+      "id": 5,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/1/2/120637c8906087773115aw__1_.jpg",
+      "des": "Mamaearth Vitamin C Foaming Face Wash with Vitamin C & Turmeric",
+      "price": 1050
+    },
+    {
+      "id": 6,
+      "category": "BESTSELLER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/3/737534800041new.jpg",
+      "des": "Plum Green Tea Pore Cleansing Face Wash",
+      "price": 749
+    },
+    {
+      "id": 7,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/s/bs-52108001-resize.jpg",
+      "des": "The Body Shop Tea Tree Skin Clearing Facial Wash",
+      "price": 799
+    },
+    {
+      "id": 8,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/a/6/a6bf37c8906087770671aw__1_.jpg",
+      "des": "Mamaearth Ubtan Face Wash With Turmeric & Saffron For Tan Removal",
+      "price": 786
+    },
+    {
+      "id": 9,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nykmcf0000003_new2.jpg",
+      "des": "MCaffeine Naked & Raw Coffee Face Wash",
+      "price": 1955
+    },
+    {
+      "id": 10,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/8/8809643076371_f2.jpg",
+      "des": "LANEIGE HYDRATION-TO-GO! For Normal to Dry Skin",
+      "price": 399
+    },
+    {
+      "id": 11,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906009454238_new1_1.jpg",
+      "des": "Biotique Bio Neem Purifying Face Wash Prevents Pimples",
+      "price": 599
+    },
+    {
+      "id": 12,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/e/a/ea2c0308904311902669__1_.jpg",
+      "des": "WOW Skin Science Brightening Vitamin C Foaming Face Wash",
+      "price": 349
+    },
+    {
+      "id": 13,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/b/i/biot_pvas_new.jpg",
+      "des": "Biotique Bio Papaya Visibly Flawless Skin Face Wash For All",
+      "price": 699
+    },
+    {
+      "id": 14,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/p/u/purifying_neem_face_wash_100ml_1.jpg",
+      "des": "Himalaya Herbals Purifying Neem Face Wash",
+      "price": 599
+    },
+    {
+      "id": 15,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906087770664.jpg",
+      "des": "Mamaearth Face Wash With Tea Tree Oil And Neem Extract ",
+      "price": 1700
+    },
+    {
+      "id": 16,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/9/3/9300607560220_a.jpg",
+      "des": "Neutrogena Oil Free Acne Wash Pink Grapefruit Facial Cleanser",
+      "price": 149
+    },
+    {
+      "id": 17,
+      "category": "FEATURED",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8904311901679_1.jpg",
+      "des": "WOW Skin Science Apple Cider Vinegar Foaming Face Wash with ...",
+      "price": 450
+    },
+    {
+      "id": 18,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nykmecom00034_3.jpg",
+      "des": "Mamaearth Vitamin C Daily Routine Kit",
+      "price": 1700
+    },
+    {
+      "id": 19,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/8/9/8906087772859_2_.jpg",
+      "des": "Mamaearth Vitamin C Face Wash with Vitamin C and Turmeric ",
+      "price": 899
+    },
+    {
+      "id": 20,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/n/y/nyplumcomb027.jpg",
+      "des": "Plum Green Tea Glow-At-Home Set",
+      "price": 549
+    },
+    {
+      "id": 21,
+      "category": "OFFER",
+      "imgUrl": "https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/9/1/9164509nymcfcom00038_1.jpg",
+      "des": "MCaffeine Deep Pore Cleansing Regime",
+      "price": 599
+    }
+  ],
+  "products": [
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/t/b/tb2139_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Multi-Color Floral Maxi Dress",
+      "title": "trueBrowns",
+      "price": 2999,
+      "discount": 50,
+      "discountedPrice": 1500,
+      "id": "177414"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/p/fpdtsd_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Sapphire Dress",
+      "title": "Fancy Pastels",
+      "price": 2250,
+      "discount": 0,
+      "discountedPrice": 2250,
+      "id": "223952"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25930701_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Yasmin Lace Flippy Hem Dress",
+      "title": "Forever New",
+      "price": 8400,
+      "discount": 60,
+      "discountedPrice": 3395,
+      "id": "189308"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/r/dr19062_1_.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Teal Boat Neck Ruched High Low Dress",
+      "title": "Kaanchie Nanggia",
+      "price": 2500,
+      "discount": 0,
+      "discountedPrice": 2500,
+      "id": "240726"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25870502_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "White Autumn Tiered Maxi Dress",
+      "title": "Forever New",
+      "price": 7600,
+      "discount": 70,
+      "discountedPrice": 2295,
+      "id": "200201"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25786001_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Emma Corset Front Lace Bodycon Dress",
+      "title": "Forever New",
+      "price": 7400,
+      "discount": 54,
+      "discountedPrice": 3395,
+      "id": "189252"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/d20011-1_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Black Bow To Ruffle Short Dress",
+      "title": "RSVP",
+      "price": 3295,
+      "discount": 0,
+      "discountedPrice": 3295,
+      "id": "217726"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/h/dhy104_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Dohyenne Green Asymmetric Cocktail Dress",
+      "title": "Abhishti",
+      "price": 1899,
+      "discount": 50,
+      "discountedPrice": 950,
+      "id": "270252"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/d20020-1_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Color Me Red Short Dress",
+      "title": "RSVP",
+      "price": 3195,
+      "discount": 0,
+      "discountedPrice": 3195,
+      "id": "217642"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/n/inddus_ind-gwn-7031-1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Inddus Green Silk Blend Embroidered Maxi Dress",
+      "title": "INDDUS",
+      "price": 4799,
+      "discount": 45,
+      "tag": {},
+      "discountedPrice": 2640,
+      "id": "210214"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/d20021_1_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "White A Lacy Affair Sheath Dress",
+      "title": "RSVP",
+      "price": 3495,
+      "discount": 0,
+      "discountedPrice": 3495,
+      "id": "217648"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/s/b/sb016_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Shimmer Pink Ruffle Wrap Dress",
+      "title": "STITCH BAE",
+      "price": 1850,
+      "discount": 20,
+      "discountedPrice": 1480,
+      "id": "145409"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/a/fabnest_19jun0527_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Red And White Cotton Check Dress With Belt",
+      "title": "Fabnest",
+      "price": 1500,
+      "discount": 45,
+      "discountedPrice": 825,
+      "id": "131930"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/v/r/vrdr0024t_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Women'S Floral Gathered Maxi Dress",
+      "title": "VRITTA",
+      "price": 1899,
+      "discount": 10,
+      "discountedPrice": 1710,
+      "id": "59750"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25797302_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Pia Lace Flippy Dress",
+      "title": "Forever New",
+      "price": 6800,
+      "discount": 62,
+      "discountedPrice": 2595,
+      "id": "189236"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/9/291a-a129-d02_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Multicolor Checks Tier Gown With Jacket",
+      "title": "Ambraee",
+      "price": 3099,
+      "discount": 0,
+      "discountedPrice": 3099,
+      "id": "126942"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/p/a/pasithea_5025_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Nyx Kaftan",
+      "title": "Pasithea",
+      "price": 2100,
+      "discount": 10,
+      "discountedPrice": 1890,
+      "id": "29505"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/k/ikrt0262_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Rayon Jaal Print Dress",
+      "title": "Idalia",
+      "price": 2399,
+      "discount": 38,
+      "discountedPrice": 1488,
+      "id": "205924"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/e/femella_ff-1299a-wht_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "White Aztec Print Piped Dress",
+      "title": "Femella",
+      "price": 1299,
+      "discount": 50,
+      "discountedPrice": 650,
+      "id": "71561"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25696601_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Nude Missy Flippy Hem Dress",
+      "title": "Forever New",
+      "price": 7400,
+      "discount": 46,
+      "discountedPrice": 3995,
+      "id": "199900"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/k/h/khwaab_186_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Red Criss-Cross Dress",
+      "title": "Khwaab",
+      "price": 2199,
+      "discount": 0,
+      "discountedPrice": 2199,
+      "id": "167991"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/g/c/gc-d-315white_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Devi White Swing Dress",
+      "title": "Gulaal",
+      "price": 3500,
+      "discount": 0,
+      "discountedPrice": 3500,
+      "id": "243981"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/w/aw18ab190drptk-withoutsleeve-_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Red Fit and Flare Dress",
+      "title": "AND",
+      "price": 2499,
+      "discount": 40,
+      "discountedPrice": 1500,
+      "id": "18966"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25872201_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Imogen Metal Trim Maxi Dress",
+      "title": "Forever New",
+      "price": 5800,
+      "discount": 55,
+      "discountedPrice": 2595,
+      "id": "189228"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/n/inddus_ind-gwn-7022-1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Inddus Navy Blue Taffeta Solid Flared Maxi Dress",
+      "title": "INDDUS",
+      "price": 3799,
+      "discount": 50,
+      "discountedPrice": 1900,
+      "id": "210196"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/v/r/vrdr0008r_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Women'S Floral Embroidered Shift Dress",
+      "title": "VRITTA",
+      "price": 1749,
+      "discount": 10,
+      "discountedPrice": 1575,
+      "id": "59630"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/e/femella_ff-1367a-wht_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "White Splatter Polka Surplice Neck Midi Dress",
+      "title": "Femella",
+      "price": 1599,
+      "discount": 50,
+      "discountedPrice": 800,
+      "id": "92630"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/p/fpdapmd_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Alizeh Polka Midi Dress",
+      "title": "Fancy Pastels",
+      "price": 2150,
+      "discount": 0,
+      "discountedPrice": 2150,
+      "id": "223931"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25433301_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Pink Phillipa Lace Off Shoulder Dress",
+      "title": "Forever New",
+      "price": 8800,
+      "discount": 61,
+      "discountedPrice": 3395,
+      "id": "199796"
+    },
+    {
+      "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/1/1120blue_1.jpg",
+      "isOutOfStock": 0,
+      "subTitle": "Cotton Blue Striped Shirt Style Dress",
+      "title": "Vedic",
+      "price": 2099,
+      "discount": 35,
+      "discountedPrice": 1365,
+      "id": "200705"
+    }
+  ],
+  "fashion": [
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/t/b/tb2139_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Multi-Color Floral Maxi Dress",
+      "title": "trueBrowns",
+      "price": 2999,
+      "category": "OFFER",
+      "discount": 50,
+      "discountedPrice": 1500,
+      "id": "177414"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/p/fpdtsd_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Sapphire Dress",
+      "title": "Fancy Pastels",
+      "price": 2250,
+      "category": "OFFER",
+      "discount": 0,
+      "discountedPrice": 2250,
+      "id": "223952"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25930701_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Yasmin Lace Flippy Hem Dress",
+      "title": "Forever New",
+      "price": 8400,
+      "discount": 60,
+      "category": "OFFER",
+      "discountedPrice": 3395,
+      "id": "189308"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/r/dr19062_1_.jpg",
+      "isOutOfStock": 0,
+      "des": "Teal Boat Neck Ruched High Low Dress",
+      "title": "Kaanchie Nanggia",
+      "price": 2500,
+      "discount": 0,
+      "category": "OFFER",
+      "discountedPrice": 2500,
+      "id": "240726"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25870502_1.jpg",
+      "isOutOfStock": 0,
+      "des": "White Autumn Tiered Maxi Dress",
+      "title": "Forever New",
+      "price": 7600,
+      "category": "OFFER",
+      "discount": 70,
+      "discountedPrice": 2295,
+      "id": "200201"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25786001_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Emma Corset Front Lace Bodycon Dress",
+      "title": "Forever New",
+      "price": 7400,
+      "category": "FEATURED",
+      "discount": 54,
+      "discountedPrice": 3395,
+      "id": "189252"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/d20011-1_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Black Bow To Ruffle Short Dress",
+      "title": "RSVP",
+      "price": 3295,
+      "category": "FEATURED",
+      "discount": 0,
+      "discountedPrice": 3295,
+      "id": "217726"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/h/dhy104_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Dohyenne Green Asymmetric Cocktail Dress",
+      "title": "Abhishti",
+      "category": "FEATURED",
+      "price": 1899,
+      "discount": 50,
+      "discountedPrice": 950,
+      "id": "270252"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/d20020-1_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Color Me Red Short Dress",
+      "title": "RSVP",
+      "category": "FEATURED",
+      "price": 3195,
+      "discount": 0,
+      "discountedPrice": 3195,
+      "id": "217642"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/n/inddus_ind-gwn-7031-1.jpg",
+      "isOutOfStock": 0,
+      "des": "Inddus Green Silk Blend Embroidered Maxi Dress",
+      "title": "INDDUS",
+      "category": "FEATURED",
+      "price": 4799,
+      "discount": 45,
+      "tag": {},
+      "discountedPrice": 2640,
+      "id": "210214"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/d20021_1_1.jpg",
+      "isOutOfStock": 0,
+      "des": "White A Lacy Affair Sheath Dress",
+      "title": "RSVP",
+      "price": 3495,
+      "category": "FEATURED",
+      "discount": 0,
+      "discountedPrice": 3495,
+      "id": "217648"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/s/b/sb016_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Shimmer Pink Ruffle Wrap Dress",
+      "title": "STITCH BAE",
+      "price": 1850,
+      "category": "FEATURED",
+      "discount": 20,
+      "discountedPrice": 1480,
+      "id": "145409"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/a/fabnest_19jun0527_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Red And White Cotton Check Dress With Belt",
+      "title": "Fabnest",
+      "price": 1500,
+      "category": "FEATURED",
+      "discount": 45,
+      "discountedPrice": 825,
+      "id": "131930"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/v/r/vrdr0024t_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Women'S Floral Gathered Maxi Dress",
+      "title": "VRITTA",
+      "price": 1899,
+      "category": "FEATURED",
+      "discount": 10,
+      "discountedPrice": 1710,
+      "id": "59750"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25797302_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Pia Lace Flippy Dress",
+      "title": "Forever New",
+      "price": 6800,
+      "category": "BESTSELLER",
+      "discount": 62,
+      "discountedPrice": 2595,
+      "id": "189236"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/9/291a-a129-d02_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Multicolor Checks Tier Gown With Jacket",
+      "title": "Ambraee",
+      "price": 3099,
+      "category": "BESTSELLER",
+      "discount": 0,
+      "discountedPrice": 3099,
+      "id": "126942"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/p/a/pasithea_5025_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Nyx Kaftan",
+      "title": "Pasithea",
+      "price": 2100,
+      "category": "BESTSELLER",
+      "discount": 10,
+      "discountedPrice": 1890,
+      "id": "29505"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/k/ikrt0262_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Rayon Jaal Print Dress",
+      "title": "Idalia",
+      "category": "BESTSELLER",
+      "price": 2399,
+      "discount": 38,
+      "discountedPrice": 1488,
+      "id": "205924"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/e/femella_ff-1299a-wht_1.jpg",
+      "isOutOfStock": 0,
+      "des": "White Aztec Print Piped Dress",
+      "title": "Femella",
+      "price": 1299,
+      "discount": 50,
+      "discountedPrice": 650,
+      "id": "71561"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25696601_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Nude Missy Flippy Hem Dress",
+      "title": "Forever New",
+      "price": 7400,
+      "category": "BESTSELLER",
+      "discount": 46,
+      "discountedPrice": 3995,
+      "id": "199900"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/k/h/khwaab_186_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Red Criss-Cross Dress",
+      "title": "Khwaab",
+      "category": "BESTSELLER",
+      "price": 2199,
+      "discount": 0,
+      "discountedPrice": 2199,
+      "id": "167991"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/g/c/gc-d-315white_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Devi White Swing Dress",
+      "title": "Gulaal",
+      "category": "BESTSELLER",
+      "price": 3500,
+      "discount": 0,
+      "discountedPrice": 3500,
+      "id": "243981"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/w/aw18ab190drptk-withoutsleeve-_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Red Fit and Flare Dress",
+      "title": "AND",
+      "category": "BESTSELLER",
+      "price": 2499,
+      "discount": 40,
+      "discountedPrice": 1500,
+      "id": "18966"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25872201_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Imogen Metal Trim Maxi Dress",
+      "title": "Forever New",
+      "price": 5800,
+      "category": "OFFER",
+      "discount": 55,
+      "discountedPrice": 2595,
+      "id": "189228"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/n/inddus_ind-gwn-7022-1.jpg",
+      "isOutOfStock": 0,
+      "des": "Inddus Navy Blue Taffeta Solid Flared Maxi Dress",
+      "title": "INDDUS",
+      "price": 3799,
+      "discount": 50,
+      "category": "FEATURED",
+      "discountedPrice": 1900,
+      "id": "210196"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/v/r/vrdr0008r_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Women'S Floral Embroidered Shift Dress",
+      "title": "VRITTA",
+      "category": "FEATURED",
+      "price": 1749,
+      "discount": 10,
+      "discountedPrice": 1575,
+      "id": "59630"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/e/femella_ff-1367a-wht_1.jpg",
+      "isOutOfStock": 0,
+      "des": "White Splatter Polka Surplice Neck Midi Dress",
+      "title": "Femella",
+      "category": "FEATURED",
+      "price": 1599,
+      "discount": 50,
+      "discountedPrice": 800,
+      "id": "92630"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/p/fpdapmd_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Alizeh Polka Midi Dress",
+      "title": "Fancy Pastels",
+      "price": 2150,
+      "discount": 0,
+      "discountedPrice": 2150,
+      "id": "223931"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/25433301_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Pink Phillipa Lace Off Shoulder Dress",
+      "title": "Forever New",
+      "category": "FEATURED",
+      "price": 8800,
+      "discount": 61,
+      "discountedPrice": 3395,
+      "id": "199796"
+    },
+    {
+      "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/1/1120blue_1.jpg",
+      "isOutOfStock": 0,
+      "des": "Cotton Blue Striped Shirt Style Dress",
+      "title": "Vedic",
+      "price": 2099,
+      "category": "FEATURED",
+      "discount": 35,
+      "discountedPrice": 1365,
+      "id": "200705"
+    }
+  ]
+}

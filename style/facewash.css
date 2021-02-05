@@ -66,7 +66,7 @@ input:focus {
     align-items: center;
     flex-wrap: wrap;
     min-height: 62px;
-    width: 100%;
+    width: 70%;
     margin: auto;
     /* background: chartreuse; */
     justify-content: space-evenly;
@@ -165,7 +165,7 @@ input:focus {
     background: rgb(255, 252, 252);
     margin-top: 15px;
     position: absolute;
-    margin-left: -100px;
+    margin-left: -50px;
     width: 200px;
     border: 0px solid black;
     flex-direction: column;
@@ -195,11 +195,9 @@ input:focus {
     color: rgb(158, 157, 157);
 }
 
+
+
 /* bottom head section */
-
-
-
-
 
 
 .bottom_head {
@@ -210,7 +208,7 @@ input:focus {
 .bottom_head nav {
     display: flex;
     justify-content: center;
-    width: 90%;
+    width: 60%;
     margin: auto;
     height: 60px;
     align-items: center;
@@ -263,7 +261,7 @@ input:focus {
     border-left: 1px solid rgb(244, 244, 244);
     border-right: 1px solid rgb(244, 244, 244);
     border-bottom: 1px solid rgb(244, 244, 244);
-    width: 90%;
+    width: 60%;
     margin-left: -10px;
     transition: all 3s ease-in-out 2s;
 
@@ -339,7 +337,7 @@ input:focus {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 90%;
     border: 0px solid black;
     margin: auto;
     /* background-color: antiquewhite; */
@@ -393,6 +391,7 @@ input:focus {
 .head {
     text-align: center;
     font-weight: 400;
+    font-size: 3rem;
 }
 
 .display {
@@ -512,7 +511,7 @@ input:focus {
 .add{
   flex: 1;
   border: none;
-  padding: 1rem;
+  padding: 2rem 1rem;
   background: white;
 }
 .add:focus{
@@ -538,7 +537,7 @@ input:focus {
 .footer_top footer {
     display: flex;
     border: 0px solid black;
-    width: 100%;
+    width: 80%;
     margin: auto;
     flex-wrap: wrap;
     flex: 1;
@@ -631,7 +630,7 @@ input:focus {
 }
 
 .footer_2 .footer {
-    width: 100%;
+    width: 80%;
     margin: auto;
     display: flex;
 }
@@ -695,7 +694,7 @@ input:focus {
 }
 
 .footer_3 footer {
-    width: 100%;
+    max-width: 80%;
     margin: auto;
     display: flex;
     justify-content: space-evenly;

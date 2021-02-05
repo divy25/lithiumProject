@@ -12,8 +12,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
         integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
         crossorigin="anonymous" />
-    <link rel="stylesheet" href="./style/style.css">
-    <title>Buy Cosmetic Products</title>
+    <link rel="stylesheet" href="./Styles/facewash.css">
+    <title>Facewash-Buy Cosmtics Products & Beauty Products Online In India's Best Online Cosmetics Platform</title>
 
 </head>
 
@@ -45,12 +45,24 @@
                         <div class="user_icon">
                             <i class="fa fa-user fa-2x" aria-hidden="true"></i>
                         </div>
-                        <span class="account_text"><a href="signup.html">Account</a></span>
+                        <span class="account_text"><a href="#">Account</a>
+                            <div class="drop_down_account">
+                                <ul>
+                                    <li><i class="fas fa-truck fa-2x"></i><a href="#">My Orders</a></li>
+                                    <li><i class="fas fa-star fa-2x"></i><a href="#">My Profile</a></li>
+                                    <li><i class="far fa-user-circle fa-2x"></i><a href="#">Nykaa Subscription</a></li>
+                                    <li><i class="fas fa-wallet fa-2x"></i><a href="#">My Wallet</a></li>
+                                    <li><i class="fas fa-heart fa-2x"></i><a href="#">My Wishlist</a></li>
+                                    <li><i class="far fa-question-circle fa-2x"></i><a href="#">Q & A</a></li>
+                                    <li><i class="fas fa-sign-out-alt fa-2x"></i><a href="#">Logout</a></li>
+                                </ul>
+                            </div>
+                        </span>
                     </div>
 
                     <div class="add_to_bag">
                         <div class="add_to_bag_icon">
-                            <a href="#"><i class="fas fa-shopping-bag fa-2x"></i></a>
+                            <a href="#"><i class="fas fa-shopping-bag fa-2x icon-cog"></i></a>
                         </div>
                     </div>
                 </section>
@@ -150,7 +162,7 @@
                             </ul>
                             <ul>
                                 <li><a href="#" style="font-weight: 700; color: gray;">EYES</a></li>
-                                <li><a href="">Kajal</a></li>
+                                <li><a href="./facewash.html">Facewash</a></li>
                                 <li><a href="">Eyeliner</a></li>
                                 <li><a href="">Mascara</a></li>
                                 <li><a href="">Eye Shadow</a></li>
@@ -171,8 +183,8 @@
                     <li><a href="">Skin</a>
                         <div class="drop_down skin">
                             <ul>
-                                <li><a href="#" style="font-weight: 700; color: gray;">FACE</a></li>
-                                <li><a href="">Face Primer</a></li>
+                                <li><a href="#" style="font-weight: 700; color: gray;">CLEANSER</a></li>
+                                <li><a href="./facewash.html">Facewash</a></li>
                                 <li><a href="">Concealer</a></li>
                                 <li><a href="">Foundation</a></li>
                                 <li><a href="">Comapct</a></li>
@@ -1150,16 +1162,57 @@
                         </div>
                     </li>
                 </ul>
-                <img src="https://adn-static1.nykaa.com/media/wysiwyg/HeaderIcons/NykaaLogoSvg.svg" alt="Nykaa"
-                    id="offer">
+                <a href="#"><img src="./images/offer.jpg" alt="Nykaa"
+                    id="offer"></a>
             </nav>
         </header>
     </section>
 
 
     <section class="mid_section">
-        WILL BE ADDED LATER
+        <div class="primerIntro">
+            <div class="primerIntroDes">
+                <h5>All Your Primer Questions Answered!</h5>
+                <p>Face primers fuse skincare and makeup to guarantee complexion <br> perfection by making your make your base last longer, blur fine lines, fill <br> pores and even color correct.</p>
+                <p>Read More On Nykaa's Beauty Book<span><i class="fas fa-caret-right"></i></span></p>
+            </div>
+            <div class="primerImgBox">
+                <img src="https://www.nykaa.com/media/categoryInfo/art_banner_image/ALL_YOUR_PRIMER_QUESTIONS_ANSWERED_.jpg"
+                    alt="facewash">
+            </div>
+        </div>
+        <h3 class="head">ALL PRODUCTS</h3>
+        <div class="display">
+            <div class="filter">
+                <form>
+                    <select style="width: 302px; height:50px; border: 1px solid white; border-radius: 2px; padding-left: 30px;margin-bottom: 10px;" name="sortBy"id="sortBY">
+                        <option value="">SORT BY: PRICE</option>
+                        <option value="asc">ASCENDING</option>
+                        <option value="desc">DESCENDING</option>
+                    </select>
+                </form>
+                <!-- <div class="sort"><button>SORT BY: POPULARITY<span><i class="fas fa-caret-down"></i></i></span></button></div> -->
+                <div><button>BRAND<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>PRICE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>DISCOUNT<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>AVG CUSTOMER RATING<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>PREFERENCE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>CONCERN<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>SKIN TYPE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>FORMULATION<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>COLOR<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>FINISH<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>SKIN TONE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>IS REPLACEABLE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+                <div><button>PACK SIZE<span><i class="fa fa-plus" aria-hidden="true"></i></span></button></div>
+            </div>
+            <div class="product"></div>
+        </div>
+
+
+
     </section>
+
 
     <section class="footer_top">
         <footer>
@@ -1216,10 +1269,10 @@
                 <l1><a href="">STORE LOCATOR</a></l1>
                 <l1><a href="">CANCELLATION & RETURN</a></l1>
                 <l1><a href="">SHIPPING & DELIVERY</a></l1>
-     
+
             </ul>
             <ul>
-                <l1 style="margin-bottom: 2rem;"><a href=""style="font-weight: 700;">INSPIRE ME</a></l1>
+                <l1 style="margin-bottom: 2rem;"><a href="" style="font-weight: 700;">INSPIRE ME</a></l1>
                 <l1><a href="">BEAUTY BOOK</a></l1>
                 <l1><a href="">NYKAA TV</a></l1>
                 <l1><a href="">NYKAA NETWORK</a></l1>
@@ -1227,7 +1280,7 @@
                 <l1><a href="">BUYING GUIDES</a></l1>
             </ul>
             <ul>
-                <l1 style="margin-bottom: 2rem;"><a href=""style="font-weight: 700;">QUICK LINKS</a></l1>
+                <l1 style="margin-bottom: 2rem;"><a href="" style="font-weight: 700;">QUICK LINKS</a></l1>
                 <l1><a href="">OFFER ZONE</a></l1>
                 <l1><a href="">NEW LAUNCHES</a></l1>
                 <l1><a href="">NYKAA MAN</a></l1>
@@ -1236,10 +1289,10 @@
                 <l1><a href="">NYKAA FEMINA BEAUTY<br>AWARDS WINNERS 2019</a></l1>
                 <l1><a href="">SITEMAP</a></l1>
                 <l1><a href=""></a></l1>
-               
+
             </ul>
             <ul>
-                <l1 style="margin-bottom: 2rem;"><a href=""style="font-weight: 700;">TOP CATEGORIES</a></l1>
+                <l1 style="margin-bottom: 2rem;"><a href="" style="font-weight: 700;">TOP CATEGORIES</a></l1>
                 <l1><a href="">MAKEUP</a></l1>
                 <l1><a href="">SKIN</a></l1>
                 <l1><a href="">HAIR</a></l1>
@@ -1309,6 +1362,6 @@
             <p>&copy; 2021 Nykaa E-Retail Pvt.Ltd.All Rights Reserved</p>
         </footer>
     </section>
-</body>
+    <script src="./scripts/facePrimer.js"></script>
 
 </html>

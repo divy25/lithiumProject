@@ -11,6 +11,7 @@ html {
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    background-color: #F3F3F3;
 }
 
 li {
@@ -54,6 +55,7 @@ input:focus {
 #logo {
     height: 50px;
     width: 110px;
+    margin-right: -50px;
 }
 
 .mid_head {
@@ -66,7 +68,7 @@ input:focus {
     align-items: center;
     flex-wrap: wrap;
     min-height: 62px;
-    width: 100%;
+    width: 87%;
     margin: auto;
     /* background: chartreuse; */
     justify-content: space-evenly;
@@ -76,7 +78,7 @@ input:focus {
 .mid_head nav ul {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex: 0.9;
     flex-wrap: wrap;
 }
@@ -84,7 +86,7 @@ input:focus {
 
 
 .mid_head nav ul li a {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 550;
     color: #03021A;
     text-decoration: none;
@@ -114,7 +116,8 @@ input:focus {
 .mid_head nav .input_field input {
     border: none;
     background: none;
-    padding: 1.5rem 2rem;
+    padding: 1.0rem 2rem;
+    
     font-size: 1.2rem;
     border-radius: 0.5rem;
 }
@@ -165,7 +168,7 @@ input:focus {
     background: rgb(255, 252, 252);
     margin-top: 15px;
     position: absolute;
-    margin-left: -100px;
+    margin-left: -50px;
     width: 200px;
     border: 0px solid black;
     flex-direction: column;
@@ -195,11 +198,9 @@ input:focus {
     color: rgb(158, 157, 157);
 }
 
+
+
 /* bottom head section */
-
-
-
-
 
 
 .bottom_head {
@@ -210,7 +211,7 @@ input:focus {
 .bottom_head nav {
     display: flex;
     justify-content: center;
-    width: 90%;
+    width: 77%;
     margin: auto;
     height: 60px;
     align-items: center;
@@ -263,7 +264,7 @@ input:focus {
     border-left: 1px solid rgb(244, 244, 244);
     border-right: 1px solid rgb(244, 244, 244);
     border-bottom: 1px solid rgb(244, 244, 244);
-    width: 90%;
+    width: 60%;
     margin-left: -10px;
     transition: all 3s ease-in-out 2s;
 
@@ -342,8 +343,9 @@ input:focus {
     width: 100%;
     border: 0px solid black;
     margin: auto;
+
     /* background-color: antiquewhite; */
-    gap: 5rem;
+    gap: 1rem;
 }
 
 .primerIntro {
@@ -393,6 +395,8 @@ input:focus {
 .head {
     text-align: center;
     font-weight: 400;
+    font-size: 3rem;
+    padding-top: 2%;
 }
 
 .display {
@@ -404,11 +408,11 @@ input:focus {
 }
 
 .filter {
-    width: 25%;
+    width: 20%;
     border: 0px solid black;
     display: flex;
     flex-direction: column;
-    margin-left: 2rem;
+    margin-left: 10rem;
 }
 .filter div {
     background: white;
@@ -449,22 +453,24 @@ input:focus {
 }
 
 .product{
-    padding-left: 5rem;
+    padding-left: 3rem;
     width: 75%;
     border: 0px solid black;
     display: flex;
     flex-wrap: wrap;
-    flex: 1;
+    flex: 1 1 20rem;
     gap: 3rem;
-    justify-content: space-around;
+
+    /* justify-content: center; */
 }
 
 .product-card{
   display: flex;
+  
   flex-direction: column;
   border: 0px solid black;
   min-height: 200px;
-  width: 300px;
+  width: 260px;
   box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1),
         0px 20px 20px rgba(0, 0, 0, 0.1);
   background: white;  
@@ -512,7 +518,7 @@ input:focus {
 .add{
   flex: 1;
   border: none;
-  padding: 1rem;
+  padding: 2rem 1rem;
   background: white;
 }
 .add:focus{
@@ -631,7 +637,7 @@ input:focus {
 }
 
 .footer_2 .footer {
-    width: 100%;
+    width: 90%;
     margin: auto;
     display: flex;
 }
@@ -695,7 +701,7 @@ input:focus {
 }
 
 .footer_3 footer {
-    width: 100%;
+    max-width: 90%;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
