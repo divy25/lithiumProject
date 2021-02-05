@@ -13,7 +13,7 @@ function handleLogin(){
     let message = validate(email,password)
 
     if(message == "success"){
-        location.assign("products.html")
+        location.assign("user.html")
     }else {
         const warning = document.getElementById("warning")
         warning.innerHTML = message

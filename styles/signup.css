@@ -14,6 +14,7 @@ body{
 .google{
     /* font-weight: bold; */
     padding: 10px 23% 10px 23%;
+    margin-bottom: 60px;
     /* white-space: nowrap; */
     border: solid 1px #ddd;
     border-radius: 3px !important;
@@ -38,7 +39,7 @@ body{
     padding-bottom: 10px;
 }
 .btn{
-    margin:20px 0px 20px 0px;
+    margin:20px 0px 0px 0px;
     background-color: rgb(240, 47, 79);
     border-radius: 3px;
     padding: 10px 40% 10px 40%;
