@@ -47,7 +47,7 @@ function createKajalCard(data){
                                             <p>1649 Ratings & 12 Reviews </p><hr>
                                             <p>Q&As</p>
                                         </div>
-                                        <h5>₹${data[i].price}</h5>
+                                        <h5>MRP:₹${data[i].price}</h5>
                                         <p>inclusive of all taxes</p>
                                         <form class="addToDelivery">
                                                 <button id = "${data[i].id}" onclick = "addedToBag(this)">ADD TO BAG</button><hr>

@@ -1,4 +1,4 @@
-let url = "http://localhost:3000/fashwash"
+let url = "http://localhost:3000/facewash"
 
 
 
@@ -19,7 +19,7 @@ let loadData = async(kajal) => {
     let id = query.get('id')
 
     try {
-        let url = `http://localhost:3000/fashwash?id=${id}`
+        let url = `http://localhost:3000/facewash?id=${id}`
         let res = await fetch(url)
         let data = await res.json()
           createKajalCard(data)
@@ -47,7 +47,7 @@ function createKajalCard(data){
                                             <p>1649 Ratings & 12 Reviews </p><hr>
                                             <p>Q&As</p>
                                         </div>
-                                        <h5>₹${data[i].price}</h5>
+                                        <h5>MRP:₹${data[i].price}</h5>
                                         <p>inclusive of all taxes</p>
                                         <form class="addToDelivery">
                                                 <button id = "${data[i].id}" onclick = "addedToBag(this)">ADD TO BAG</button><hr>

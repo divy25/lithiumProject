@@ -78,17 +78,17 @@ async function loadData() {
           `<div class="product-card">
           <p id="tag" style="text-align: left; padding-left: 1rem;">${data[i].category}</p>
           <div class="product-pic">
-              <img src=${data[i].imgUrl} alt="..."></img>
+              <a id="${data[i].id}" onclick = "showDetails(this)"> <img src=${data[i].imgUrl} alt="..."></img></a>
           </div>
           <div class="product-info">
               <p class="product-des">${data[i].des}</p>
-              <p class="product-price">₹${data[i].price}</p>
+              <p class="product-price" >₹${data[i].price}</p>
           </div>
           <div id="btn" class="product-btn">
-              <button class="heart" onclick="toggle()"><i class="fas fa-heart icon-cog"></i></button>
-              <button class="add">ADD TO BAG</button>
+              <button class="heart" id="${data[i].id}" onclick="wishlistAdd(this)"><i class="fas fa-heart icon-cog"></i></button>
+              <button class="add" id="${data[i].id}" onclick="addedToBag(this)">ADD TO BAG</button>
           </div>
-      </div>`
+        </div>`
       
 }
  
@@ -118,7 +118,7 @@ function  showDetails(event) {
   console.log(id)
   let params = new URLSearchParams()
   params.append('id',id)
-  url = "kajalProduct.html"
+  url = "facePrimerProduct.html"
   window.location.assign(url + "?" + params.toString())
   }
   function openForm() {
@@ -136,7 +136,7 @@ function  showDetails(event) {
   let id = event.id
   
   // document.querySelector('.heart').style.color = "red"
-  let url = `http://localhost:3000/kajal/${id}`
+  let url = `http://localhost:3000/facePrimer/${id}`
   // console.log(url)
   fetch(url) 
            .then(res => res.json())
@@ -157,7 +157,7 @@ function  showDetails(event) {
     let id = event.id
     
     
-    let url = `http://localhost:3000/kajal/${id}`
+    let url = `http://localhost:3000/facePrimer/${id}`
     
     fetch(url) 
              .then(res => res.json())
