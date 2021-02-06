@@ -1,0 +1,172 @@
+#kajalProductContainer{
+    background-color: whitesmoke;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.kajalCard {
+    display: flex;
+    height: 400px;
+    width: 80%;
+    /* border: 1px solid black; */
+    margin-left: 10%;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px #EBEBEB;
+}
+
+.kajalCardLeft {
+    height: 80%;
+    width: 30%;
+    /* border: 1px solid black; */
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+.kajalCardRight {
+   /* border: 1px solid black; */
+   width: 60%;
+   padding-left: 3%;
+}
+
+.desText {
+    font-size: 21px;
+    font-weight: 550;
+    margin-top: 3%;
+    color: #03021A;
+    /* border: 1px solid black; */
+}
+
+.productRating {
+    display: flex;
+   gap: 1%;
+    /* margin-top: -50px; */
+    /* border: 1px solid black; */
+
+}
+.productRating > hr {
+    height: 20px;
+    border: 1px solid lightgrey;
+    
+}
+
+.productRating :nth-child(2) {
+   margin-left: 2%;
+   margin-right: 2%;
+   margin-top: 3.5%;
+   color: #3F414D;
+}
+
+.productRating :nth-child(4) {
+    margin-left: 2% ;
+    margin-right: 2%;
+    margin-top: 3.5%;
+    color: #3F414D;
+}
+
+.productRating > p {
+    margin-top: 4%;
+    font-weight: 600;
+    font-size: 15px;
+    color: #3F414D;
+}
+
+.ratingImg {
+    height: 70px;
+    width: 80px;
+}
+
+.kajalCardRight > h5 {
+    font-size: x-large;
+    color: #3F414D;
+    margin-top: 0px;
+}
+
+.kajalCardRight > p {
+    /* margin-top: -20px; */
+    font-weight: 600;
+    color: #3F414D;
+}
+
+.addToDelivery {
+    display: flex;
+    /* border: 1px solid black; */
+    margin-top: 0%;
+    height: 30%;
+}
+
+.addToDelivery > button {
+    /* border: 1px solid black; */
+    width: 31%;
+    height: 42%;
+    margin-top: 5%;
+    background-color: #FC2779;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+}
+.addToDelivery > hr {
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 0.2px solid #EBEBEB;
+}
+.inputPincode {
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    padding-top: 3%;
+}
+
+.inputPincode > label > img {
+    height: 20px;
+    width: 20px;
+}
+
+.inputPincode > label {
+    font-weight: 600 ;
+    color: #3F414D;
+}
+
+#pincode {
+    margin-top: 2%;
+    height: 30%;
+    width: 90%;
+}
+
+.addToDelivery > a {
+    margin-top: 9%;
+    margin-left: -90px;
+    color: #FC2779;
+    text-decoration: none;
+}
+
+
+.authenticTags {
+    margin-top: 8%;
+    /* border: 1px solid grey; */
+    font-size: 15px;
+    height: 10%;
+    display: flex;
+    
+    
+}
+
+.genuine {
+    padding-top: 2%;
+    
+}
+
+.authenticTags > span {
+    
+    margin-top: 1%;
+    margin-right: 4%;
+    margin-left: -8px;
+    transform: scaleX(0.85)
+}
+
+
+.authenticTags :nth-child(5) {
+    margin-top: 1%;
+    transform: scaleX(0.85)
+}

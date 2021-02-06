@@ -1,0 +1,125 @@
+body {
+    background-color: whitesmoke;
+}
+.wishlistContainer {
+    display: flex;
+    gap: 3%;
+    /* border: 1px solid black; */
+    width: 80%;
+    margin: auto;
+    margin-top: 4%;
+    /* height: 400px; */
+   
+}
+
+.OptionsWish {
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 80%;
+    box-shadow: 1px 1px 1px 1px #888888;
+    /* border: 1px solid black; */
+    background-color: white;
+}
+
+.OptionsWish > div {
+    
+    border: none 1px solid black  none  none;
+    border-bottom: 1px solid grey;
+    height: 13%;
+    padding-left: 4%;
+    padding-top: 5%;
+}
+
+.OptionsWish > div > a {
+    text-decoration: none;
+    color: #3F414D;
+}
+
+.OptionsWish > div :hover {
+    color: #FC2779;
+    cursor: pointer;
+    
+}
+
+.OptionsWish > div > a > i {
+    margin-right: 6%;
+}
+
+.logout {
+    height: 20px;
+    width: 20px;
+    
+}
+
+.OptionsWish > div > a > img {
+    margin-right: 5%;
+}
+
+.OptionsWish > div > a > img > span {
+    padding-top: 0px;
+}
+
+#displayWish {
+    box-shadow: 1px 1px 1px 1px #888888;
+    background-color: white;
+   
+    
+}
+
+
+
+.wishHead {
+   
+    
+   padding-bottom: -20px;    
+    border-bottom: 0.2px solid grey;
+    border: none none none 1px solid grey;
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 800px;
+    font-weight: 300;
+    font-size: 30px;
+    height: 70px;
+}
+
+.wishCard {
+    margin: 1% ;
+    /* border: 1px solid black; */
+    height: 350px;
+    width: 30%;
+    float: right;
+    box-shadow: 1px 1px 1px 1px #888888
+}
+
+.wishImg {
+    height: 200px;
+}
+
+.wishDel {
+      float: right;
+      height: 25px;
+      width: 25px;
+      border-radius: 50%;
+      color: grey;
+      border: 1px solid grey;
+      background-color: transparent;
+}
+
+.wishCard > p {
+    text-align: center;
+}
+
+.wishCard > h3 {
+    text-align: center;
+}
+
+.moveToBag {
+    width: 100%;
+    height: 13%;
+    margin-top: -10px;
+    color: #FC2779;
+    background-color: transparent;
+    border: 1px solid lightgrey;
+    cursor: pointer;
+}
