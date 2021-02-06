@@ -125,6 +125,7 @@ const wishlistAdd = async(event) => {
  
 let id = event.id
 
+alert("Product Added to Wishlist");
 // document.querySelector('.heart').style.color = "red"
 let url = `http://localhost:3000/kajal/${id}`
 // console.log(url)
@@ -145,7 +146,7 @@ localStorage.setItem('product_wish',JSON.stringify(prod))
 const addedToBag = async(event) => {
  
   let id = event.id
-  
+  alert("Product Added to Bag");
   
   let url = `http://localhost:3000/kajal/${id}`
   

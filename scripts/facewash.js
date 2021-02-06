@@ -117,6 +117,7 @@ document.querySelector(".product").innerHTML = output;
   const wishlistAdd = async(event) => {
    
   let id = event.id
+  alert("Product Added to Wishlist");
   
   // document.querySelector('.heart').style.color = "red"
   let url = `http://localhost:3000/facewash/${id}`
@@ -138,7 +139,7 @@ document.querySelector(".product").innerHTML = output;
   const addedToBag = async(event) => {
    
     let id = event.id
-    
+    alert("Product Added to Bag");
     
     let url = `http://localhost:3000/facewash/${id}`
     

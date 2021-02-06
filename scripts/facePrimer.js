@@ -134,7 +134,8 @@ function  showDetails(event) {
   const wishlistAdd = async(event) => {
    
   let id = event.id
-  
+   
+  alert("Product Added to Wishlist");
   // document.querySelector('.heart').style.color = "red"
   let url = `http://localhost:3000/facePrimer/${id}`
   // console.log(url)
@@ -155,7 +156,7 @@ function  showDetails(event) {
   const addedToBag = async(event) => {
    
     let id = event.id
-    
+    alert("Product Added to Bag");
     
     let url = `http://localhost:3000/facePrimer/${id}`
     

@@ -124,6 +124,8 @@ window.addEventListener('load',function(){
   const wishlistAdd = async(event) => {
    
   let id = event.id
+
+  alert("Product Added to Wishlist");
   
   // document.querySelector('.heart').style.color = "red"
   let url = `http://localhost:3000/fashion/${id}`
@@ -145,6 +147,7 @@ window.addEventListener('load',function(){
   const addedToBag = async(event) => {
    
     let id = event.id
+    alert("Product Added to Bag");
     
     
     let url = `http://localhost:3000/fashion/${id}`
