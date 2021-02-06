@@ -173,3 +173,15 @@
 }
 
 
+
+.wish {
+    padding: 0rem 2rem;
+    font-size: 35px;
+    border: none;
+    color: whitesmoke;
+    background-color: transparent;
+}
+
+.wish:hover {
+    color: #FC2779;
+}

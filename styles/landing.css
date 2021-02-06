@@ -536,7 +536,7 @@ input:focus {
   background: rgb(252, 39, 121);
   color: white;
 }
-.offers-page-link {
+.offers-page-link  {
     background-color: white;
     color: rgb(252, 39, 121);
     font-weight: bold;

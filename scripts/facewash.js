@@ -84,7 +84,7 @@ for (i in data) {
                 <p class="product-price" >₹${data[i].price}</p>
             </div>
             <div id="btn" class="product-btn">
-                <button class="heart" id="${data[i].id}" onclick="wishlistAdd(this)"><i class="fas fa-heart icon-cog"></i></button>
+                <button class="wish" id="${data[i].id}" onclick="wishlistAdd(this)">&#9829</button>
                 <button class="add" id="${data[i].id}" onclick="addedToBag(this)">ADD TO BAG</button>
             </div>
         </div>`
