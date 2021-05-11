@@ -54,7 +54,7 @@ i took some inputs from these resources,i would be thankful to them as well.
 # Glimpse of Our Work :-
 
 ## Login Page: -
-![login Page](loginPage.png)
+![login Page](https://github.com/divy25/lithiumProject/images/loginPage.png)
 
 ## Home Page: -
 ![Home_Page1](https://github.com/Vishal643/propane/blob/main/public/assets/HomePage1.png)
