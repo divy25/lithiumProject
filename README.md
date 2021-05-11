@@ -54,24 +54,22 @@ i took some inputs from these resources,i would be thankful to them as well.
 # Glimpse of Our Work :-
 
 ## Login Page: -
-![login Page](https://github.com/divy25/blob/main/lithiumProject/images/loginPage.png)
+![login Page](https://github.com/divy25/lithiumProject/blob/main/images/loginPage.png?raw=true)
 
-## Home Page: -
-![Home_Page1](https://github.com/Vishal643/propane/blob/main/public/assets/HomePage1.png)
-![Home Page2](https://github.com/Vishal643/propane/blob/main/public/assets/HomePage2.png)
-![Home Page3](https://github.com/Vishal643/propane/blob/main/public/assets/HomePage3.png)
+## Offer Page: -
+![Offer Page](https://github.com/divy25/lithiumProject/blob/main/images/offerPage.png?raw=true)
 
-## Business Page: - 
-![Business Page1](https://github.com/Vishal643/propane/blob/main/public/assets/BusinessPage1.png)
-![Business Page2](https://github.com/Vishal643/propane/blob/main/public/assets/BusinessPage2.png)
-![IndiaBusinessPage](https://github.com/Vishal643/propane/blob/main/public/assets/IndiaBusinessPage.png)
+## Face Primer Page: - 
+![Face Primer](https://github.com/divy25/lithiumProject/blob/main/images/facePrimer.png?raw=true)
 
-## Individual News, Related News and Comments: - 
-![Individual News Related News and Comments](https://github.com/Vishal643/propane/blob/main/public/assets/IndivisulaNewsAndComment.png)
+## lipstick Page :- 
+![lipstick](https://github.com/divy25/lithiumProject/blob/main/images/lipstickPage.png?raw=true)
 
-## Tax Calculation Page: - 
-![Tax Calculation Page](https://github.com/Vishal643/propane/blob/main/public/assets/Tax-Calculationpage.png) 
+## Fashion Page: - 
+![fashion](https://github.com/divy25/lithiumProject/blob/main/images/nykaaFashion.png?raw=true) 
 
-## Tech Page: - 
-![Tech Page1](https://github.com/Vishal643/propane/blob/main/public/assets/TachPage1.png)
-![Tech Page2](https://github.com/Vishal643/propane/blob/main/public/assets/TechPage2.png)
+## Wishlist Page: - 
+![Wishlist](https://github.com/divy25/lithiumProject/blob/main/images/wishlistPage.png?raw=true)
+
+## Product Cart : - 
+![Bag](https://github.com/divy25/lithiumProject/blob/main/images/shopBag.png?raw=true)
