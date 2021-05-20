@@ -4,7 +4,7 @@ window.addEventListener('load',function(){
 let data = []
 async function loadData() {
   try{
-      let response = await fetch('http://localhost:3000/lipstick')
+      let response = await fetch('https://nykaa-database.herokuapp.com/lipstick')
       var data =    await response.json();
 
       let sortt = document.getElementById('sortBY')
@@ -127,7 +127,7 @@ let id = event.id
 
 alert("Product Added to Wishlist");
 // document.querySelector('.heart').style.color = "red"
-let url = `http://localhost:3000/lipstick/${id}`
+let url = `https://nykaa-database.herokuapp.com/lipstick/${id}`
 // console.log(url)
 fetch(url) 
          .then(res => res.json())
@@ -148,7 +148,7 @@ const addedToBag = async(event) => {
   let id = event.id
   alert("Product Added to Bag");
   
-  let url = `http://localhost:3000/lipstick/${id}`
+  let url = `https://nykaa-database.herokuapp.com/lipstick/${id}`
   
   fetch(url) 
            .then(res => res.json())
