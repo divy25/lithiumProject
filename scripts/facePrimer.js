@@ -6,7 +6,7 @@ let data = []
 
 async function loadData() {
     try{
-        let response = await fetch('http://localhost:3000/facePrimer')
+        let response = await fetch('https://nykaa-database.herokuapp.com/facePrimer')
         let data =    await response.json();
         let sortt = document.getElementById('sortBY')
     sortt.addEventListener('change', function () {
@@ -137,7 +137,7 @@ function  showDetails(event) {
    
   alert("Product Added to Wishlist");
   // document.querySelector('.heart').style.color = "red"
-  let url = `http://localhost:3000/facePrimer/${id}`
+  let url = `https://nykaa-database.herokuapp.com/facePrimer/${id}`
   // console.log(url)
   fetch(url) 
            .then(res => res.json())
@@ -158,7 +158,7 @@ function  showDetails(event) {
     let id = event.id
     alert("Product Added to Bag");
     
-    let url = `http://localhost:3000/facePrimer/${id}`
+    let url = `https://nykaa-database.herokuapp.com/facePrimer/${id}`
     
     fetch(url) 
              .then(res => res.json())
