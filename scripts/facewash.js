@@ -5,7 +5,7 @@ let data = []
 
 async function loadData() {
     try {
-        let response = await fetch('http://localhost:3000/facewash')
+        let response = await fetch('https://nykaa-database.herokuapp.com/facewash')
         let data = await response.json();
         
         let sortt = document.getElementById('sortBY')
@@ -120,7 +120,7 @@ document.querySelector(".product").innerHTML = output;
   alert("Product Added to Wishlist");
   
   // document.querySelector('.heart').style.color = "red"
-  let url = `http://localhost:3000/facewash/${id}`
+  let url = `https://nykaa-database.herokuapp.com/facewash/${id}`
   // console.log(url)
   fetch(url) 
            .then(res => res.json())
@@ -141,7 +141,7 @@ document.querySelector(".product").innerHTML = output;
     let id = event.id
     alert("Product Added to Bag");
     
-    let url = `http://localhost:3000/facewash/${id}`
+    let url = `https://nykaa-database.herokuapp.com/facewash/${id}`
     
     fetch(url) 
              .then(res => res.json())
