@@ -4,7 +4,7 @@ window.addEventListener('load',function(){
   let data = []
   async function loadData() {
     try{
-        let response = await fetch('http://localhost:3000/fashion')
+        let response = await fetch('https://nykaa-database.herokuapp.com/fashion')
         var data =    await response.json();
 
         let sortt = document.getElementById('sortBY')
@@ -129,7 +129,7 @@ window.addEventListener('load',function(){
   alert("Product Added to Wishlist");
   
   // document.querySelector('.heart').style.color = "red"
-  let url = `http://localhost:3000/fashion/${id}`
+  let url = `https://nykaa-database.herokuapp.com/fashion/${id}`
   // console.log(url)
   fetch(url) 
            .then(res => res.json())
@@ -151,7 +151,7 @@ window.addEventListener('load',function(){
     alert("Product Added to Bag");
     
     
-    let url = `http://localhost:3000/fashion/${id}`
+    let url = `https://nykaa-database.herokuapp.com/fashion/${id}`
     
     fetch(url) 
              .then(res => res.json())
