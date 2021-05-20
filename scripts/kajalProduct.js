@@ -1,4 +1,4 @@
-let url = "http://localhost:3000/kajal"
+let url = "https://nykaa-database.herokuapp.com/kajal"
 
 
 
@@ -19,7 +19,7 @@ let loadData = async(kajal) => {
     let id = query.get('id')
 
     try {
-        let url = `http://localhost:3000/kajal?id=${id}`
+        let url = `https://nykaa-database.herokuapp.com/kajal?id=${id}`
         let res = await fetch(url)
         let data = await res.json()
           createKajalCard(data)
