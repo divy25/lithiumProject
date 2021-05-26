@@ -41,6 +41,7 @@ input:focus {
     border: 0px solid black;
     position: sticky;
     top: 0;
+    z-index:1000;
 }
 
 /* top head section */
