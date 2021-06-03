@@ -10,45 +10,12 @@ function execute(e){
     getPurchaseData()
 }
 
-// let checkout = document.getElementById('checkout')
-// let modalBg = document.querySelector(".modal-bg");
-// let modalBg2 = document.querySelector(".modal-bg2");
-// let modalClose = document.querySelector(".modal-close");
 
 // // Delivery date
 let date = document.getElementById('deliveryDate')
 let targetDate = new Date()
 targetDate.setDate(targetDate.getDate() + 10)
 date.textContent = targetDate.toDateString()
-
-// pay button 
-// let pay = document.getElementById('modal-btn')
-// pay.addEventListener('click', ()=>{
-//     modalBg2.classList.add("bg-active");
-//     setTimeout(showPage, 2000)
-// })
-// function showPage() {
-//     document.getElementById("loader").style.display = "none";
-//     document.getElementById("thank").style.display = "block";
-//     localStorage.clear()
-// }
-
-// // close button redirect to home page
-// let goTohome = document.getElementById('close')
-// goTohome.addEventListener('click', ()=>{
-//     window.location =  "" //"H&F.html"
-// })
-// // Modal box
-// checkout.addEventListener('click', ()=>{
-//     modalBg.classList.add("bg-active");
-// })
-
-// modalClose.addEventListener("click", function () {
-//     modalBg.classList.remove("bg-active");
-//   });
-
-
- // added  product
 
 
 
@@ -103,7 +70,7 @@ function showAddedData() {
 
 
 
-  localStorage.setItem( "cart-products",JSON.stringify(data))
+  //localStorage.setItem( "cart-products",JSON.stringify(data))
 
 function getPurchaseData(){
     let added = localStorage.getItem("cart-products")
@@ -149,56 +116,59 @@ function getPurchaseData(){
 // Handling no of quantity
 
 
-function minus(pid){
-    let added = localStorage.getItem("cart-products")
-    let data = JSON.parse(added)
-    for(i in data){
-        if (data[i].id === pid){
-            let total = document.querySelector(`[data-id=total${data[i].id}]`)
-            total.textContent = Number(total.textContent)  - Number(data[i].price)
-            if(total.textContent < 1){
-                total.textContent = 0
-            }
+// function minus(pid){
+//     let added = localStorage.getItem("cart-products")
+//     let data = JSON.parse(added)
+//     for(i in data){
+//         if (data[i].id === pid){
+//             let total = document.querySelector(`[data-id=total${data[i].id}]`)
+//             total.textContent = Number(total.textContent)  - Number(data[i].price)
+//             if(total.textContent < 1){
+//                 total.textContent = 0
+//             }
 
-            let input = document.querySelector(`[data-id=input${data[i].id}]`)
-            let val = input.value
-            input.value = Number(val) - 1
-            if(val < 1){
-                input.value = 0
-            }
-        }
-    }
-    cartTotal()
-}
-
-
-function plus(pid){
-    let added = localStorage.getItem("cart-products")
-    let data = JSON.parse(added)
-    for(i in data){
-        if (data[i].id === pid){
-            let total = document.querySelector(`[data-id=total${data[i].id}]`)
-            total.textContent = Number(total.textContent) + Number(data[i].price)
-
-            let input = document.querySelector(`[data-id=input${data[i].id}]`)
-            let val = input.value
-            input.value = Number(val) + 1
-        }
-    }
-    cartTotal()
-}
+//             let input = document.querySelector(`[data-id=input${data[i].id}]`)
+//             let val = input.value
+//             input.value = Number(val) - 1
+//             if(val < 1){
+//                 input.value = 0
+//             }
+//         }
+//     }
+//     cartTotal()
+// }
 
 
+// function plus(pid){
+//     let added = localStorage.getItem("cart-products")
+//     let data = JSON.parse(added)
+//     for(i in data){
+//         if (data[i].id === pid){
+//             let total = document.querySelector(`[data-id=total${data[i].id}]`)
+//             total.textContent = Number(total.textContent) + Number(data[i].price)
+
+//             let input = document.querySelector(`[data-id=input${data[i].id}]`)
+//             let val = input.value
+//             input.value = Number(val) + 1
+//         }
+//     }
+//     cartTotal()
+// }
+
+let data = JSON.parse(localStorage.getItem('product_added'))
 let offer = document.querySelector('.offer')
 let freeShip = document.querySelector('.free_ship')
-function cartTotal(){
-    let added = localStorage.getItem("cart-products")
-    let data = JSON.parse(added)
+function cartTotal(data){
+   // let added = localStorage.getItem("product_added")
+   
+    // data = JSON.parse(added)
     let tot = 0
-    for(i in data){
-        let total = document.querySelector(`[data-id=total${data[i].id}]`).textContent
-        tot += Number(total)        
+    
+    for(let i =0 ;i<data.length ;i++){
+        tot += data[i].itemPrice
     }
+   
+
     bill_amt.textContent = tot.toFixed(2) 
     total_amt.textContent = (Number(tot) + (Number(tot) * 0.18)).toFixed(2)
     if(bill_amt.textContent > 1999){
@@ -210,25 +180,25 @@ function cartTotal(){
     }
 }
 
-function addprice(data){
-    let total = 0;
-    let bill = 0;
-    for(i in data){
-        let total_prod_price = document.querySelector(`[data-id=total${data[i].id}]`).textContent
-        bill += Number(total_prod_price) 
-        total = Number(bill) + (Number(bill) * 0.18)
-    }
-    bill_amt.textContent =bill
-    total_amt.textContent = total
-}
+// function addprice(data){
+//     let total = 0;
+//     let bill = 0;
+//     for(i in data){
+//         let total_prod_price = document.querySelector(`[data-id=total${data[i].id}]`).textContent
+//         bill += Number(total_prod_price) 
+//         total = Number(bill) + (Number(bill) * 0.18)
+//     }
+//     bill_amt.textContent =bill
+//     total_amt.textContent = total
+// }
 
-function delet(did){
-    let added = localStorage.getItem("cart-products")
-    let data = JSON.parse(added)
-    for(i in data){
-        if(data[i].id == did){
-            console.log(data[i])
-            // localStorage.removeItem("cart-products");
-        }
-    }
-}
+// function delet(did){
+//     let added = localStorage.getItem("cart-products")
+//     let data = JSON.parse(added)
+//     for(i in data){
+//         if(data[i].id == did){
+//             console.log(data[i])
+//             // localStorage.removeItem("cart-products");
+//         }
+//     }
+// }

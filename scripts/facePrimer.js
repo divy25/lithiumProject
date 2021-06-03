@@ -151,6 +151,7 @@ function  showDetails(event) {
   let prod = [...randomData,retrivedData]
   localStorage.setItem('product_wish',JSON.stringify(prod))
   }
+
   
   
   const addedToBag = async(event) => {
