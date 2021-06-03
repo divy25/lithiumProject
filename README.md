@@ -44,9 +44,8 @@ Project Link: [project repo](https://github.com/divy25/lithiumProject.git)
 ## Acknowledgment
 i took some inputs from these resources,i would be thankful to them as well. 
 1) [wikipedia](https://www.wikipedia.org)
-2) [wikipedia](https://www.w3schools.com)
-3) [fullcalendar](https://www.fillcalendar.io)
-4) [MDN docs](https://developer.mozilla.org/en-US/)
+2) [W3 Schools](https://www.w3schools.com)
+3) [MDN docs](https://developer.mozilla.org/en-US/)
 
 
  
