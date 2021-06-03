@@ -35,6 +35,7 @@ function validate(email,password){
         if(user.email === email){
             return "Wrong Credentials"
         }
+       
     }
     return "Account doesn’t exists"
 }
